@@ -1,0 +1,1704 @@
+Location,Features,Name of Restaurant
+Adyar,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",2
+Adyar,"['Breakfast', 'Home Delivery', 'Free Parking', 'Wifi', 'Desserts and Bakes', 'Indoor Seating']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Full Bar Available', 'Free Parking', 'Indoor Seating', 'Table booking recommended', 'City View', 'Live Music', 'Free Wifi', 'Gluten Free Options', 'Desserts and Bakes']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Indoor Seating']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Indoor Seating']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Catering Available', 'Desserts and Bakes', 'Indoor Seating']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'All Day Breakfast']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Buffet', 'Table reservation required']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Buffet']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Free Parking']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",4
+Adyar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Adyar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Table reservation required', 'Serves Jain Food', 'Indoor Seating', 'Catering Available']",1
+Adyar,"['Breakfast', 'Home Delivery']",1
+Adyar,"['Breakfast', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Catering Available']",1
+Adyar,"['Delivery Only', 'Desserts and Bakes']",3
+Adyar,['Delivery Only'],5
+Adyar,"['Home Delivery', 'Board Games', 'Indoor Seating', 'Live Sports Screening', 'Gaming Area', 'Kid Friendly']",1
+Adyar,"['Home Delivery', 'Catering Available', 'Indoor Seating']",1
+Adyar,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",1
+Adyar,"['Home Delivery', 'Desserts and Bakes']",3
+Adyar,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes', 'Outdoor Seating']",1
+Adyar,"['Home Delivery', 'Free Parking', 'Indoor Seating']",3
+Adyar,"['Home Delivery', 'Free Parking', 'Live Music', 'Table booking recommended', 'Smoking Area', 'Outdoor Seating', 'Indoor Seating']",1
+Adyar,"['Home Delivery', 'Free Parking', 'Outdoor Seating', 'Desserts and Bakes']",1
+Adyar,"['Home Delivery', 'Free Parking', 'Table booking recommended', 'Smoking Area', 'Desserts and Bakes', 'Indoor Seating', 'Wifi']",1
+Adyar,"['Home Delivery', 'Free Parking', 'Table reservation required', 'Indoor Seating', 'Kid Friendly', 'Wifi', 'Buffet']",1
+Adyar,"['Home Delivery', 'Free Parking']",1
+Adyar,"['Home Delivery', 'Full Bar Available', 'Live Sports Screening', 'Indoor Seating', 'Table booking recommended', 'Valet Parking Available', 'Live Music', 'Free Wifi', 'Smoking Area']",1
+Adyar,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Table booking recommended']",1
+Adyar,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Pet Friendly']",1
+Adyar,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Wifi']",1
+Adyar,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",6
+Adyar,"['Home Delivery', 'Indoor Seating', 'Free Parking']",1
+Adyar,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Buffet']",1
+Adyar,"['Home Delivery', 'Indoor Seating', 'Table reservation required', 'Wifi']",1
+Adyar,"['Home Delivery', 'Indoor Seating', 'Table reservation required']",2
+Adyar,"['Home Delivery', 'Indoor Seating', 'Wifi', 'All Day Breakfast']",1
+Adyar,"['Home Delivery', 'Indoor Seating', 'Wifi']",2
+Adyar,"['Home Delivery', 'Indoor Seating']",21
+Adyar,"['Home Delivery', 'Mall Parking', 'Indoor Seating', 'Rooftop']",1
+Adyar,"['Home Delivery', 'Outdoor Seating', 'Buffet', 'Group Meal', 'Indoor Seating', 'Table booking recommended', 'Catering Available']",1
+Adyar,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes']",1
+Adyar,"['Home Delivery', 'Outdoor Seating']",2
+Adyar,"['Home Delivery', 'Rooftop', 'Table reservation required']",1
+Adyar,"['Home Delivery', 'Serves Halal', 'Free Parking', 'Indoor Seating', 'Table booking recommended', 'Card Upon Delivery', 'Catering Available', 'Wifi', 'Valet Parking Available']",1
+Adyar,"['Home Delivery', 'Smoking Area', 'Free Parking', 'Indoor Seating', 'Live Music', 'Table booking recommended']",1
+Adyar,"['Home Delivery', 'Standing Tables', 'Desserts and Bakes']",1
+Adyar,"['Home Delivery', 'Standing Tables']",3
+Adyar,"['Home Delivery', 'Valet Parking Available', 'Table booking recommended', 'Indoor Seating', 'Kid Friendly']",1
+Adyar,"['Home Delivery', 'Valet Parking Available', 'Table booking recommended', 'Kid Friendly', 'Private Dining Area Available', 'Wifi', 'Buffet', 'Indoor Seating']",1
+Adyar,"['Home Delivery', 'Vegetarian Only', 'Buffet', 'Free Parking', 'Indoor Seating', 'Table booking recommended', 'Private Dining Area Available', 'Serves Jain Food', 'Valet Parking Available']",1
+Adyar,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Kid Friendly', 'Desserts and Bakes', 'Self Service']",1
+Adyar,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",4
+Adyar,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Gluten Free Options', 'Vegan Options']",1
+Adyar,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food', 'Desserts and Bakes']",1
+Adyar,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+Adyar,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",2
+Adyar,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Adyar,"['Home Delivery', 'Vegetarian Only', 'Sugar Free Options', 'Indoor Seating', 'Desserts and Bakes']",1
+Adyar,"['Home Delivery', 'Vegetarian Only']",2
+Adyar,"['Home Delivery', 'Wheelchair Accessible', 'Vegetarian Only', 'Free Parking', 'Table booking recommended', 'Wifi', 'Indoor Seating', 'Buffet']",1
+Adyar,"['Home Delivery', 'Wheelchair Accessible', 'Vegetarian Only', 'Vegan Options', 'Free Parking', 'Indoor Seating', 'Table reservation required', 'Serves Jain Food', 'Valet Parking Available', 'Private Dining Area Available', 'Gluten Free Options']",1
+Adyar,['Home Delivery'],16
+Ambattur,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",2
+Ambattur,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Free Parking']",1
+Ambattur,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table booking recommended']",1
+Ambattur,"['Breakfast', 'Home Delivery', 'Indoor Seating']",8
+Ambattur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Desserts and Bakes', 'Indoor Seating']",1
+Ambattur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Catering Available', 'Outdoor Seating', 'Kid Friendly']",1
+Ambattur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",3
+Ambattur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Free Parking']",1
+Ambattur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table Reservation Not Required', 'Catering Available']",1
+Ambattur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",4
+Ambattur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Ambattur,"['Breakfast', 'Home Delivery']",3
+Ambattur,"['Breakfast', 'Vegetarian Only', 'Indoor Seating']",1
+Ambattur,"['Delivery Only', 'Desserts and Bakes']",2
+Ambattur,"['Delivery Only', 'Vegetarian Only']",1
+Ambattur,['Delivery Only'],8
+Ambattur,"['Home Delivery', 'Catering Available', 'Indoor Seating']",1
+Ambattur,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating']",1
+Ambattur,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table Reservation Not Required']",1
+Ambattur,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table booking recommended']",1
+Ambattur,"['Home Delivery', 'Free Parking', 'Indoor Seating']",10
+Ambattur,"['Home Delivery', 'Free Parking', 'Outdoor Seating']",2
+Ambattur,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",3
+Ambattur,"['Home Delivery', 'Indoor Seating', 'Free Parking']",7
+Ambattur,"['Home Delivery', 'Indoor Seating', 'Restricted Entry']",1
+Ambattur,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",1
+Ambattur,"['Home Delivery', 'Indoor Seating', 'Table reservation required']",1
+Ambattur,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+Ambattur,"['Home Delivery', 'Indoor Seating']",54
+Ambattur,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+Ambattur,"['Home Delivery', 'Outdoor Seating']",3
+Ambattur,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Ambattur,"['Home Delivery', 'Rooftop', 'Indoor Seating', 'Catering Available']",1
+Ambattur,"['Home Delivery', 'Standing Tables', 'Desserts and Bakes']",1
+Ambattur,"['Home Delivery', 'Standing Tables', 'Free Parking']",1
+Ambattur,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Free Parking', 'Indoor Seating', 'Wifi', 'Outdoor Seating']",1
+Ambattur,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating']",1
+Ambattur,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",1
+Ambattur,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",1
+Ambattur,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Catering Available']",1
+Ambattur,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",5
+Ambattur,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Self Service']",1
+Ambattur,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",4
+Ambattur,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Ambattur,"['Home Delivery', 'Vegetarian Only']",1
+Ambattur,['Home Delivery'],13
+Ambattur,[],1
+Anna Nagar East,"['Breakfast', 'Delivery Only']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Catering Available', 'Indoor Seating']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Desserts and Bakes', 'Indoor Seating', 'All Day Breakfast']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating', 'Free Wifi', 'Wifi', 'Table reservation required']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",2
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Free Parking', 'Pre-Ordering Required', 'Catering Available', 'Wifi', 'Desserts and Bakes', 'Indoor Seating']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",3
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Wifi', 'Desserts and Bakes']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Wifi']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Indoor Seating']",4
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Table Reservation Not Required', 'Pre-Ordering Required', 'Indoor Seating', 'Desserts and Bakes']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",2
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Pre-Ordering Required', 'Desserts and Bakes', 'Indoor Seating']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table reservation required', 'Catering Available']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Wifi']",1
+Anna Nagar East,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",5
+Anna Nagar East,"['Breakfast', 'Home Delivery']",1
+Anna Nagar East,"['Delivery Only', 'Desserts and Bakes']",1
+Anna Nagar East,"['Delivery Only', 'Home Baker', 'Desserts and Bakes']",1
+Anna Nagar East,['Delivery Only'],10
+Anna Nagar East,"['Home Delivery', 'Buffet', 'Free Parking', 'Indoor Seating', 'Valet Parking Available', 'Table booking recommended']",1
+Anna Nagar East,"['Home Delivery', 'Catering Available', 'Indoor Seating']",1
+Anna Nagar East,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",1
+Anna Nagar East,"['Home Delivery', 'Desserts and Bakes']",2
+Anna Nagar East,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Catering Available']",1
+Anna Nagar East,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Live Music', 'Kid Friendly']",1
+Anna Nagar East,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table booking recommended']",2
+Anna Nagar East,"['Home Delivery', 'Free Parking', 'Indoor Seating']",2
+Anna Nagar East,"['Home Delivery', 'Free Parking', 'Table reservation required', 'Indoor Seating']",1
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Buffet', 'Table Reservation Not Required']",1
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Card Upon Delivery', 'Buffet', 'Table booking recommended']",1
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Catering Available']",1
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",8
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Free Parking']",2
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Free Wifi']",1
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Gluten Free Options', 'Desserts and Bakes', 'Vegan Options']",1
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Outdoor Seating', 'Valet Parking Available', 'Table reservation required', 'Smoking Area']",1
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required', 'Desserts and Bakes']",1
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",1
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",2
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Table reservation required']",3
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Free Wifi']",1
+Anna Nagar East,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Kid Friendly']",1
+Anna Nagar East,"['Home Delivery', 'Indoor Seating']",44
+Anna Nagar East,"['Home Delivery', 'Live Sports Screening', 'Table booking recommended', 'Indoor Seating']",1
+Anna Nagar East,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes']",2
+Anna Nagar East,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating', 'Wifi']",1
+Anna Nagar East,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",2
+Anna Nagar East,"['Home Delivery', 'Outdoor Seating', 'Table booking recommended', 'Indoor Seating']",1
+Anna Nagar East,"['Home Delivery', 'Outdoor Seating']",4
+Anna Nagar East,"['Home Delivery', 'Pre-Ordering Required', 'Catering Available']",1
+Anna Nagar East,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes', 'Home Baker']",1
+Anna Nagar East,"['Home Delivery', 'Serves Halal', 'Table booking for Groups', 'Card Upon Delivery', 'Catering Available', 'Free Parking', 'Valet Parking Available', 'Indoor Seating', 'Table booking recommended', 'Table reservation required', 'Kid Friendly', 'Sports TV']",1
+Anna Nagar East,"['Home Delivery', 'Sugar Free Options', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",1
+Anna Nagar East,"['Home Delivery', 'Valet Parking Available', 'Buffet', 'Indoor Seating', 'Table booking recommended']",1
+Anna Nagar East,"['Home Delivery', 'Valet Parking Available', 'Indoor Seating', 'Table Reservation Not Required']",1
+Anna Nagar East,"['Home Delivery', 'Valet Parking Available', 'Indoor Seating', 'Table booking recommended', 'Buffet']",1
+Anna Nagar East,"['Home Delivery', 'Valet Parking Available', 'Table reservation required', 'Wifi', 'Smoking Area', 'Desserts and Bakes', 'Indoor Seating', 'Bulk Orders Accepted', 'Outdoor Seating', 'All Day Breakfast']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Catering Available', 'Indoor Seating', 'Desserts and Bakes']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Free Parking', 'Indoor Seating']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Wifi', 'Desserts and Bakes', 'Indoor Seating', 'Free Wifi']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Catering Available']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required', 'Serves Jain Food']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",5
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Smoking Area']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table booking recommended', 'Serves Jain Food']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",4
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating', 'Self Service', 'Desserts and Bakes']",2
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only', 'Standing Tables']",1
+Anna Nagar East,"['Home Delivery', 'Vegetarian Only']",5
+Anna Nagar East,['Home Delivery'],19
+Anna Nagar East,"['Takeaway Only', 'Vegetarian Only']",1
+Anna Nagar West,"['Breakfast', 'Delivery Only']",3
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",2
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Wifi']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Indoor Seating']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Wifi', 'Desserts and Bakes']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Outdoor Seating']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Desserts and Bakes', 'Free Parking', 'Pre-Ordering Required', 'Table Reservation Not Required', 'Indoor Seating']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Buffet']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Table Reservation Not Required', 'Desserts and Bakes']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Wifi']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",2
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Outdoor Seating', 'Indoor Seating']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery', 'Vegetarian Only']",1
+Anna Nagar West,"['Breakfast', 'Home Delivery']",1
+Anna Nagar West,"['Delivery Only', 'Desserts and Bakes']",1
+Anna Nagar West,['Delivery Only'],4
+Anna Nagar West,"['Home Delivery', 'Catering Available', 'Wifi', 'Indoor Seating']",1
+Anna Nagar West,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating', 'Wifi']",2
+Anna Nagar West,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",1
+Anna Nagar West,"['Home Delivery', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+Anna Nagar West,"['Home Delivery', 'Desserts and Bakes', 'Sugar Free Options', 'Free Parking', 'Indoor Seating']",1
+Anna Nagar West,"['Home Delivery', 'Desserts and Bakes']",3
+Anna Nagar West,"['Home Delivery', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",1
+Anna Nagar West,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating']",1
+Anna Nagar West,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table booking recommended', 'Wifi', 'Karaoke', 'Rooftop', 'Card Upon Delivery', 'Kid Friendly', 'Smoking Area']",1
+Anna Nagar West,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table booking recommended']",1
+Anna Nagar West,"['Home Delivery', 'Free Parking', 'Indoor Seating']",3
+Anna Nagar West,"['Home Delivery', 'Free Parking', 'Kid Friendly', 'Indoor Seating', 'Wifi', 'Brunch', 'Desserts and Bakes']",1
+Anna Nagar West,"['Home Delivery', 'Free Parking', 'Table booking recommended', 'Kid Friendly', 'Group Meal', 'Indoor Seating', 'Table booking for Groups']",1
+Anna Nagar West,"['Home Delivery', 'Free Parking', 'Wifi', 'Indoor Seating', 'Card Upon Delivery']",1
+Anna Nagar West,"['Home Delivery', 'Free Parking']",1
+Anna Nagar West,"['Home Delivery', 'Home Baker', 'Gluten Free Options', 'Desserts and Bakes', 'Vegan Options']",1
+Anna Nagar West,"['Home Delivery', 'Indoor Seating', 'Brunch']",1
+Anna Nagar West,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Table booking recommended']",1
+Anna Nagar West,"['Home Delivery', 'Indoor Seating', 'Catering Available']",4
+Anna Nagar West,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",2
+Anna Nagar West,"['Home Delivery', 'Indoor Seating', 'Free Parking']",1
+Anna Nagar West,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",4
+Anna Nagar West,"['Home Delivery', 'Indoor Seating', 'Sugar Free Options', 'Desserts and Bakes']",1
+Anna Nagar West,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",1
+Anna Nagar West,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Buffet', 'Catering Available']",1
+Anna Nagar West,"['Home Delivery', 'Indoor Seating']",28
+Anna Nagar West,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes']",1
+Anna Nagar West,"['Home Delivery', 'Outdoor Seating', 'Table booking recommended']",1
+Anna Nagar West,"['Home Delivery', 'Outdoor Seating']",4
+Anna Nagar West,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes', 'Home Baker']",1
+Anna Nagar West,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Anna Nagar West,"['Home Delivery', 'Rooftop']",1
+Anna Nagar West,"['Home Delivery', 'Serves Halal', 'Free Parking', 'Indoor Seating']",1
+Anna Nagar West,"['Home Delivery', 'Serves Halal', 'Outdoor Seating', 'Indoor Seating']",1
+Anna Nagar West,"['Home Delivery', 'Standing Tables', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Anna Nagar West,"['Home Delivery', 'Table Reservation Not Required', 'Indoor Seating']",1
+Anna Nagar West,"['Home Delivery', 'Table booking recommended', 'Indoor Seating']",1
+Anna Nagar West,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Kid Friendly', 'Wifi', 'Vegan Options']",1
+Anna Nagar West,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",3
+Anna Nagar West,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food', 'Table reservation required']",1
+Anna Nagar West,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Sugar Free Options', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Anna Nagar West,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table reservation required']",1
+Anna Nagar West,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",3
+Anna Nagar West,"['Home Delivery', 'Vegetarian Only', 'Lunch Menu', 'Indoor Seating', 'Desserts and Bakes', 'Free Parking', 'Catering Available', 'Group Meal']",1
+Anna Nagar West,"['Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Table booking recommended', 'Catering Available', 'Buffet', 'Indoor Seating', 'Serves Jain Food', 'Brunch']",1
+Anna Nagar West,"['Home Delivery', 'Vegetarian Only']",2
+Anna Nagar West,['Home Delivery'],13
+Chromepet,"['Breakfast', 'Delivery Only']",1
+Chromepet,"['Breakfast', 'Home Delivery', 'Desserts and Bakes']",1
+Chromepet,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating']",1
+Chromepet,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Catering Available']",1
+Chromepet,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",1
+Chromepet,"['Breakfast', 'Home Delivery', 'Indoor Seating']",3
+Chromepet,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",1
+Chromepet,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",2
+Chromepet,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available']",1
+Chromepet,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",1
+Chromepet,"['Breakfast', 'Home Delivery']",1
+Chromepet,"['Delivery Only', 'Desserts and Bakes']",1
+Chromepet,['Delivery Only'],8
+Chromepet,"['Home Delivery', 'Catering Available', 'Indoor Seating', 'Free Parking']",1
+Chromepet,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",1
+Chromepet,"['Home Delivery', 'Desserts and Bakes']",1
+Chromepet,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",2
+Chromepet,"['Home Delivery', 'Free Parking', 'Indoor Seating']",9
+Chromepet,"['Home Delivery', 'Free Parking', 'Table booking recommended', 'Indoor Seating']",1
+Chromepet,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Table booking recommended']",1
+Chromepet,"['Home Delivery', 'Indoor Seating', 'Catering Available']",2
+Chromepet,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",4
+Chromepet,"['Home Delivery', 'Indoor Seating', 'Free Parking']",1
+Chromepet,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Catering Available', 'Table booking for Groups']",1
+Chromepet,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Valet Parking Available']",1
+Chromepet,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Card Upon Delivery']",1
+Chromepet,"['Home Delivery', 'Indoor Seating']",28
+Chromepet,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+Chromepet,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Chromepet,"['Home Delivery', 'Table booking recommended', 'Indoor Seating']",1
+Chromepet,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Outdoor Seating']",1
+Chromepet,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Chromepet,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",2
+Chromepet,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",2
+Chromepet,"['Home Delivery', 'Vegetarian Only']",1
+Chromepet,"['Home Delivery', 'Wifi', 'Buffet', 'Sports TV', 'Indoor Seating', 'Table booking recommended', 'Bulk Orders Accepted', 'Catering Available', 'Valet Parking Available']",1
+Chromepet,"['Home Delivery', 'Wifi', 'Free Parking', 'Indoor Seating']",1
+Chromepet,"['Home Delivery', 'Wifi', 'Indoor Seating', 'Table booking recommended']",1
+Chromepet,['Home Delivery'],11
+GST Road,"['Breakfast', 'Delivery Only', 'Free Parking']",1
+GST Road,"['Breakfast', 'Delivery Only']",1
+GST Road,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",2
+GST Road,"['Breakfast', 'Home Delivery', 'Free Parking', 'Table reservation required', 'Indoor Seating']",1
+GST Road,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",1
+GST Road,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table booking recommended']",1
+GST Road,"['Breakfast', 'Home Delivery', 'Indoor Seating']",7
+GST Road,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Indoor Seating', 'Desserts and Bakes']",1
+GST Road,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Indoor Seating']",1
+GST Road,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",2
+GST Road,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking']",1
+GST Road,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Free Parking']",1
+GST Road,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table booking recommended']",1
+GST Road,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table reservation required']",2
+GST Road,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",2
+GST Road,"['Breakfast', 'Home Delivery']",3
+GST Road,['Delivery Only'],3
+GST Road,"['Home Delivery', 'Desserts and Bakes']",1
+GST Road,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Catering Available', 'Wifi']",1
+GST Road,"['Home Delivery', 'Free Parking', 'Indoor Seating']",10
+GST Road,"['Home Delivery', 'Free Parking', 'Self Service', 'Indoor Seating']",1
+GST Road,"['Home Delivery', 'Free Parking', 'Table reservation required', 'Indoor Seating']",1
+GST Road,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",3
+GST Road,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+GST Road,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",1
+GST Road,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Desserts and Bakes']",1
+GST Road,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",2
+GST Road,"['Home Delivery', 'Indoor Seating', 'Table reservation required']",3
+GST Road,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Free Parking']",1
+GST Road,"['Home Delivery', 'Indoor Seating']",24
+GST Road,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",2
+GST Road,"['Home Delivery', 'Outdoor Seating', 'Table booking recommended']",1
+GST Road,"['Home Delivery', 'Outdoor Seating']",2
+GST Road,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+GST Road,"['Home Delivery', 'Serves Halal', 'Free Parking']",1
+GST Road,"['Home Delivery', 'Serves Halal', 'Indoor Seating', 'Free Parking']",1
+GST Road,"['Home Delivery', 'Table booking recommended', 'Indoor Seating', 'Wifi']",1
+GST Road,"['Home Delivery', 'Valet Parking Available', 'Table booking recommended', 'Indoor Seating']",1
+GST Road,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating']",2
+GST Road,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Free Wifi', 'Wifi', 'Desserts and Bakes', 'Indoor Seating', 'Kid Friendly']",1
+GST Road,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",1
+GST Road,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",1
+GST Road,"['Home Delivery', 'Wheelchair Accessible', 'Vegetarian Only', 'Mall Parking', 'Indoor Seating', 'Desserts and Bakes', 'Catering Available']",1
+GST Road,"['Home Delivery', 'Wifi', 'Indoor Seating', 'Desserts and Bakes']",1
+GST Road,['Home Delivery'],5
+GST Road,['Indoor Seating'],1
+Kilpauk,"['Breakfast', 'Delivery Only']",1
+Kilpauk,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",1
+Kilpauk,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Catering Available']",1
+Kilpauk,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Kid Friendly', 'Self Service']",1
+Kilpauk,"['Breakfast', 'Home Delivery', 'Indoor Seating']",4
+Kilpauk,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Pre-Ordering Required', 'Indoor Seating', 'Desserts and Bakes']",1
+Kilpauk,"['Breakfast', 'Home Delivery', 'Standing Tables', 'Indoor Seating']",1
+Kilpauk,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Pre-Ordering Required', 'Serves Jain Food', 'Desserts and Bakes', 'Indoor Seating']",1
+Kilpauk,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Valet Parking Available', 'Indoor Seating', 'Catering Available']",1
+Kilpauk,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available']",1
+Kilpauk,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",1
+Kilpauk,"['Breakfast', 'Home Delivery', 'Vegetarian Only']",1
+Kilpauk,"['Breakfast', 'Home Delivery']",2
+Kilpauk,"['Delivery Only', 'Desserts and Bakes']",1
+Kilpauk,"['Delivery Only', 'Home Baker', 'Desserts and Bakes']",1
+Kilpauk,"['Delivery Only', 'Vegetarian Only']",1
+Kilpauk,['Delivery Only'],6
+Kilpauk,"['Home Delivery', 'Desserts and Bakes', 'Outdoor Seating']",2
+Kilpauk,"['Home Delivery', 'Desserts and Bakes', 'Pre-Ordering Required', 'Indoor Seating']",1
+Kilpauk,"['Home Delivery', 'Desserts and Bakes']",2
+Kilpauk,"['Home Delivery', 'Free Parking', 'Card Upon Delivery', 'Indoor Seating']",1
+Kilpauk,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",2
+Kilpauk,"['Home Delivery', 'Free Parking', 'Indoor Seating']",7
+Kilpauk,"['Home Delivery', 'Free Parking', 'Outdoor Seating', 'Desserts and Bakes']",1
+Kilpauk,"['Home Delivery', 'Free Parking', 'Pre-Ordering Required', 'Indoor Seating', 'Desserts and Bakes']",1
+Kilpauk,"['Home Delivery', 'Indoor Seating', 'All Day Breakfast', 'Desserts and Bakes']",1
+Kilpauk,"['Home Delivery', 'Indoor Seating', 'Buffet']",1
+Kilpauk,"['Home Delivery', 'Indoor Seating', 'Catering Available']",1
+Kilpauk,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",7
+Kilpauk,"['Home Delivery', 'Indoor Seating', 'Free Parking']",1
+Kilpauk,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Kilpauk,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",1
+Kilpauk,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",1
+Kilpauk,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Free Parking']",1
+Kilpauk,"['Home Delivery', 'Indoor Seating']",13
+Kilpauk,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+Kilpauk,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes', 'Home Baker']",4
+Kilpauk,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",2
+Kilpauk,"['Home Delivery', 'Standing Tables', 'Free Parking']",1
+Kilpauk,"['Home Delivery', 'Standing Tables']",1
+Kilpauk,"['Home Delivery', 'Table Reservation Not Required', 'Indoor Seating']",2
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Board Games', 'Free Parking', 'Outdoor Seating', 'Indoor Seating', 'Desserts and Bakes']",1
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating']",2
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Free Wifi', 'Indoor Seating']",1
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",3
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Table booking recommended', 'Indoor Seating']",1
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Brunch']",1
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available']",1
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",2
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food']",2
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table reservation required', 'Serves Jain Food']",1
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",5
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating', 'Indoor Seating']",1
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",2
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Standing Tables']",1
+Kilpauk,"['Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Indoor Seating', 'Keto Options', 'Disabled Friendly', 'Pet Friendly', 'Wifi', 'Group Meal', 'Outdoor Seating', 'Table booking recommended', 'Available for Functions', 'Kid Friendly', 'Smoking Area', 'Gluten Free Options', 'Vegan Options']",1
+Kilpauk,"['Home Delivery', 'Vegetarian Only']",3
+Kilpauk,['Home Delivery'],10
+Madipakkam,"['Breakfast', 'Delivery Only']",1
+Madipakkam,"['Breakfast', 'Home Delivery', 'Desserts and Bakes', 'Indoor Seating', 'Pre-Ordering Required']",1
+Madipakkam,"['Breakfast', 'Home Delivery', 'Indoor Seating']",5
+Madipakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Desserts and Bakes', 'Indoor Seating']",1
+Madipakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Madipakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes']",1
+Madipakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",5
+Madipakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only']",1
+Madipakkam,"['Breakfast', 'Home Delivery']",3
+Madipakkam,"['Delivery Only', 'Desserts and Bakes']",1
+Madipakkam,['Delivery Only'],9
+Madipakkam,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating', 'Restricted Entry']",1
+Madipakkam,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",1
+Madipakkam,"['Home Delivery', 'Desserts and Bakes']",1
+Madipakkam,"['Home Delivery', 'Free Parking', 'Card Upon Delivery', 'Indoor Seating', 'Wifi']",1
+Madipakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating']",1
+Madipakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating']",1
+Madipakkam,"['Home Delivery', 'Indoor Seating', 'Buffet']",1
+Madipakkam,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Wifi', 'Desserts and Bakes']",1
+Madipakkam,"['Home Delivery', 'Indoor Seating', 'Catering Available']",1
+Madipakkam,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+Madipakkam,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",4
+Madipakkam,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Madipakkam,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",1
+Madipakkam,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+Madipakkam,"['Home Delivery', 'Indoor Seating']",31
+Madipakkam,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+Madipakkam,"['Home Delivery', 'Outdoor Seating']",1
+Madipakkam,"['Home Delivery', 'Serves Halal', 'Outdoor Seating', 'Indoor Seating']",1
+Madipakkam,"['Home Delivery', 'Standing Tables']",1
+Madipakkam,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating']",1
+Madipakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",1
+Madipakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",3
+Madipakkam,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Madipakkam,"['Home Delivery', 'Vegetarian Only']",1
+Madipakkam,"['Home Delivery', 'Wifi', 'Free Parking', 'Indoor Seating']",1
+Madipakkam,['Home Delivery'],13
+Medavakkam,"['Breakfast', 'Delivery Only']",1
+Medavakkam,"['Breakfast', 'Home Delivery', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",1
+Medavakkam,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",2
+Medavakkam,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Brunch']",1
+Medavakkam,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",2
+Medavakkam,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Free Parking', 'Desserts and Bakes']",1
+Medavakkam,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Free Parking']",1
+Medavakkam,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Kid Friendly', 'Wifi', 'Free Parking']",1
+Medavakkam,"['Breakfast', 'Home Delivery', 'Indoor Seating']",7
+Medavakkam,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+Medavakkam,"['Breakfast', 'Home Delivery', 'Outdoor Seating']",1
+Medavakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating', 'Catering Available']",1
+Medavakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Serves Jain Food']",1
+Medavakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available']",1
+Medavakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table reservation required']",1
+Medavakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Table reservation required', 'Indoor Seating']",1
+Medavakkam,"['Breakfast', 'Home Delivery']",1
+Medavakkam,"['Delivery Only', 'Desserts and Bakes']",1
+Medavakkam,['Delivery Only'],17
+Medavakkam,"['Home Delivery', 'Catering Available', 'Indoor Seating']",1
+Medavakkam,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",1
+Medavakkam,"['Home Delivery', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",2
+Medavakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Catering Available']",2
+Medavakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",3
+Medavakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating']",2
+Medavakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table booking recommended']",1
+Medavakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating']",7
+Medavakkam,"['Home Delivery', 'Free Parking', 'Wifi', 'Indoor Seating']",1
+Medavakkam,"['Home Delivery', 'Free Parking']",1
+Medavakkam,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Table reservation required']",1
+Medavakkam,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",4
+Medavakkam,"['Home Delivery', 'Indoor Seating', 'Free Parking']",2
+Medavakkam,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Medavakkam,"['Home Delivery', 'Indoor Seating', 'Self Service']",1
+Medavakkam,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",1
+Medavakkam,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",1
+Medavakkam,"['Home Delivery', 'Indoor Seating', 'Table reservation required']",5
+Medavakkam,"['Home Delivery', 'Indoor Seating']",45
+Medavakkam,"['Home Delivery', 'Mall Parking', 'Outdoor Seating', 'Indoor Seating']",1
+Medavakkam,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes', 'Indoor Seating']",1
+Medavakkam,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes']",1
+Medavakkam,"['Home Delivery', 'Outdoor Seating']",1
+Medavakkam,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Medavakkam,"['Home Delivery', 'Standing Tables', 'Outdoor Seating', 'Indoor Seating']",1
+Medavakkam,"['Home Delivery', 'Standing Tables']",1
+Medavakkam,"['Home Delivery', 'Table Reservation Not Required', 'Indoor Seating']",1
+Medavakkam,"['Home Delivery', 'Valet Parking Available', 'Indoor Seating', 'Table booking recommended', 'Bulk Orders Accepted', 'Card Upon Delivery', 'Catering Available', 'Outdoor Seating', 'Table booking for Groups', 'Available for Functions', 'Buffet']",1
+Medavakkam,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes']",1
+Medavakkam,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Medavakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Sugar Free Options']",1
+Medavakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",1
+Medavakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Outdoor Seating']",1
+Medavakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",1
+Medavakkam,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating', 'Indoor Seating']",1
+Medavakkam,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Medavakkam,"['Home Delivery', 'Vegetarian Only']",1
+Medavakkam,['Home Delivery'],11
+Mogappair,"['Breakfast', 'Home Delivery', 'Desserts and Bakes']",1
+Mogappair,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",1
+Mogappair,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Self Service', 'Wifi', 'All Day Breakfast']",1
+Mogappair,"['Breakfast', 'Home Delivery', 'Indoor Seating']",6
+Mogappair,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",3
+Mogappair,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes']",1
+Mogappair,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available']",1
+Mogappair,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",2
+Mogappair,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Mogappair,"['Breakfast', 'Home Delivery']",1
+Mogappair,"['Delivery Only', 'Desserts and Bakes']",1
+Mogappair,"['Delivery Only', 'Outdoor Seating']",1
+Mogappair,['Delivery Only'],6
+Mogappair,"['Home Delivery', 'Catering Available', 'Free Parking', 'Indoor Seating']",1
+Mogappair,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating', 'Pre-Ordering Required']",1
+Mogappair,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",1
+Mogappair,"['Home Delivery', 'Desserts and Bakes', 'Outdoor Seating']",1
+Mogappair,"['Home Delivery', 'Desserts and Bakes', 'Pre-Ordering Required', 'Home Baker']",1
+Mogappair,"['Home Delivery', 'Desserts and Bakes']",4
+Mogappair,"['Home Delivery', 'Free Parking', 'Brunch', 'Indoor Seating', 'Group Meal']",1
+Mogappair,"['Home Delivery', 'Free Parking', 'Free Wifi', 'Indoor Seating', 'Table booking recommended']",1
+Mogappair,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Card Upon Delivery']",1
+Mogappair,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Catering Available']",1
+Mogappair,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table Reservation Not Required', 'Live Music']",1
+Mogappair,"['Home Delivery', 'Free Parking', 'Indoor Seating']",4
+Mogappair,"['Home Delivery', 'Free Parking', 'Outdoor Seating', 'Indoor Seating']",1
+Mogappair,"['Home Delivery', 'Free Parking', 'Outdoor Seating']",1
+Mogappair,"['Home Delivery', 'Free Parking', 'Self Service']",1
+Mogappair,"['Home Delivery', 'Free Parking', 'Table booking recommended', 'Kid Friendly', 'Wifi', 'Buffet', 'Indoor Seating']",1
+Mogappair,"['Home Delivery', 'Free Parking']",1
+Mogappair,"['Home Delivery', 'Indoor Seating', 'All Day Breakfast']",1
+Mogappair,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Table reservation required']",1
+Mogappair,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",3
+Mogappair,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",2
+Mogappair,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",2
+Mogappair,"['Home Delivery', 'Indoor Seating', 'Table reservation required']",2
+Mogappair,"['Home Delivery', 'Indoor Seating']",30
+Mogappair,"['Home Delivery', 'Outdoor Seating']",5
+Mogappair,"['Home Delivery', 'Self Service']",1
+Mogappair,"['Home Delivery', 'Serves Halal', 'Indoor Seating']",1
+Mogappair,"['Home Delivery', 'Standing Tables', 'Self Service', 'Desserts and Bakes', 'Outdoor Seating']",1
+Mogappair,"['Home Delivery', 'Table Reservation Not Required', 'Indoor Seating']",1
+Mogappair,"['Home Delivery', 'Table booking recommended', 'Indoor Seating']",1
+Mogappair,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Outdoor Seating', 'Desserts and Bakes']",1
+Mogappair,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Mogappair,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Outdoor Seating']",1
+Mogappair,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Pre-Ordering Required', 'Indoor Seating']",1
+Mogappair,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",4
+Mogappair,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",2
+Mogappair,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Mogappair,['Home Delivery'],13
+Mogappair,['Indoor Seating'],1
+Nungambakkam,"['Breakfast', 'Delivery Only']",1
+Nungambakkam,"['Breakfast', 'Home Delivery', 'Desserts and Bakes']",2
+Nungambakkam,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating', 'Free Wifi']",1
+Nungambakkam,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating', 'Valet Parking Available', 'Table booking recommended', 'Desserts and Bakes']",1
+Nungambakkam,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",2
+Nungambakkam,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Free Parking']",1
+Nungambakkam,"['Breakfast', 'Home Delivery', 'Indoor Seating']",3
+Nungambakkam,"['Breakfast', 'Home Delivery', 'LGBTQIA Friendly', 'Board Games', 'Live Entertainment', 'Live Music', 'Free Wifi', 'All Day Breakfast', 'Brunch', 'Desserts and Bakes', 'Free Parking', 'Live Sports Screening', 'Indoor Seating']",1
+Nungambakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes']",1
+Nungambakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available']",1
+Nungambakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",4
+Nungambakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Live Sports Screening', 'Table booking recommended', 'Indoor Seating']",1
+Nungambakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Standing Tables']",1
+Nungambakkam,"['Breakfast', 'Home Delivery']",5
+Nungambakkam,['Delivery Only'],14
+Nungambakkam,"['Home Delivery', 'Catering Available', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Desserts and Bakes']",5
+Nungambakkam,"['Home Delivery', 'Free Parking', 'Catering Available', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Buffet']",1
+Nungambakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Catering Available']",1
+Nungambakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+Nungambakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating', 'Smoking Area']",1
+Nungambakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Wifi', 'Outdoor Seating', 'Kid Friendly', 'Smoking Area']",1
+Nungambakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating']",3
+Nungambakkam,"['Home Delivery', 'Free Parking', 'Table booking for Groups', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Free Parking', 'Wifi', 'Indoor Seating', 'Card Upon Delivery']",1
+Nungambakkam,"['Home Delivery', 'Free Parking']",1
+Nungambakkam,"['Home Delivery', 'Full Bar Available', 'Karaoke', 'Smoking Area', 'Valet Parking Available', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Buffet']",2
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Card Upon Delivery']",1
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Free Parking']",1
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Wifi']",1
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",8
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Free Parking']",1
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",3
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Table reservation required', 'Desserts and Bakes', 'Free Wifi']",1
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Table reservation required']",2
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Table booking recommended']",1
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Table reservation required']",1
+Nungambakkam,"['Home Delivery', 'Indoor Seating', 'Wifi']",2
+Nungambakkam,"['Home Delivery', 'Indoor Seating']",17
+Nungambakkam,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes']",1
+Nungambakkam,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating', 'Desserts and Bakes']",1
+Nungambakkam,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Outdoor Seating', 'Rooftop', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Outdoor Seating', 'Table booking recommended', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Outdoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Nungambakkam,"['Home Delivery', 'Self Service']",1
+Nungambakkam,"['Home Delivery', 'Serves Halal', 'Free Parking', 'Indoor Seating', 'Valet Parking Available', 'Table booking recommended', 'Card Upon Delivery', 'Catering Available']",1
+Nungambakkam,"['Home Delivery', 'Serves Halal', 'Indoor Seating', 'Catering Available', 'Table reservation required']",1
+Nungambakkam,"['Home Delivery', 'Serves Halal', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Table booking recommended', 'Smoking Area', 'Live Sports Screening', 'Live Music', 'Wifi', 'Valet Parking Available', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Valet Parking Available', 'Table booking recommended', 'Wifi', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Catering Available']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",3
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Sugar Free Options', 'Desserts and Bakes']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table booking recommended', 'Catering Available']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table booking recommended']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table reservation required', 'Buffet', 'Desserts and Bakes']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table reservation required']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Live Sports Screening', 'Live Music', 'Table booking recommended', 'Smoking Area', 'Valet Parking Available', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating', 'Self Service', 'Desserts and Bakes']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Table booking recommended', 'Pet Friendly', 'Keto Options', 'Outdoor Seating', 'Wifi', 'Indoor Seating']",1
+Nungambakkam,"['Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Table reservation required', 'Buffet', 'Indoor Seating', 'Wifi', 'Serves Jain Food']",1
+Nungambakkam,"['Home Delivery', 'Wheelchair Accessible', 'Valet Parking Available', 'Indoor Seating']",1
+Nungambakkam,['Home Delivery'],14
+Pallavaram,"['Breakfast', 'Delivery Only']",1
+Pallavaram,"['Breakfast', 'Home Delivery', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating', 'Restricted Entry']",1
+Pallavaram,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating']",1
+Pallavaram,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",1
+Pallavaram,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Wifi']",1
+Pallavaram,"['Breakfast', 'Home Delivery', 'Indoor Seating']",3
+Pallavaram,"['Breakfast', 'Home Delivery', 'Live Sports Screening', 'Indoor Seating', 'Smoking Area', 'Valet Parking Available', 'Table booking recommended', 'Buffet']",1
+Pallavaram,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+Pallavaram,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Pallavaram,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",1
+Pallavaram,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table booking recommended', 'Desserts and Bakes']",1
+Pallavaram,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",4
+Pallavaram,"['Breakfast', 'Home Delivery']",3
+Pallavaram,['Delivery Only'],18
+Pallavaram,"['Home Delivery', 'Catering Available', 'Indoor Seating', 'Table reservation required']",1
+Pallavaram,"['Home Delivery', 'Desserts and Bakes', 'Free Parking', 'Indoor Seating']",1
+Pallavaram,"['Home Delivery', 'Free Parking', 'Catering Available', 'Indoor Seating']",1
+Pallavaram,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating']",1
+Pallavaram,"['Home Delivery', 'Free Parking', 'Indoor Seating']",2
+Pallavaram,"['Home Delivery', 'Free Parking', 'Outdoor Seating', 'Indoor Seating']",1
+Pallavaram,"['Home Delivery', 'Free Parking']",1
+Pallavaram,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Wifi', 'Table reservation required']",1
+Pallavaram,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Wifi']",1
+Pallavaram,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",6
+Pallavaram,"['Home Delivery', 'Indoor Seating', 'Free Parking']",3
+Pallavaram,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",1
+Pallavaram,"['Home Delivery', 'Indoor Seating']",29
+Pallavaram,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes']",1
+Pallavaram,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",2
+Pallavaram,"['Home Delivery', 'Outdoor Seating']",1
+Pallavaram,"['Home Delivery', 'Serves Halal', 'Free Parking', 'Indoor Seating']",1
+Pallavaram,"['Home Delivery', 'Serves Halal', 'Indoor Seating']",1
+Pallavaram,"['Home Delivery', 'Table Reservation Not Required', 'Indoor Seating']",1
+Pallavaram,"['Home Delivery', 'Table reservation required', 'Wifi', 'Indoor Seating', 'Catering Available', 'Buffet']",1
+Pallavaram,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating', 'Sugar Free Options']",1
+Pallavaram,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",1
+Pallavaram,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",3
+Pallavaram,"['Home Delivery', 'Vegetarian Only', 'Table Reservation Not Required', 'Indoor Seating']",1
+Pallavaram,['Home Delivery'],8
+Perambur,"['Breakfast', 'Delivery Only']",2
+Perambur,"['Breakfast', 'Home Delivery', 'Indoor Seating']",3
+Perambur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Perambur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Buffet']",1
+Perambur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes']",1
+Perambur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Free Parking']",1
+Perambur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",5
+Perambur,"['Breakfast', 'Home Delivery']",2
+Perambur,"['Delivery Only', 'Desserts and Bakes']",1
+Perambur,['Delivery Only'],7
+Perambur,"['Home Delivery', 'Catering Available', 'Indoor Seating']",1
+Perambur,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",1
+Perambur,"['Home Delivery', 'Desserts and Bakes']",3
+Perambur,"['Home Delivery', 'Free Parking', 'Card Upon Delivery', 'Indoor Seating', 'Wifi']",1
+Perambur,"['Home Delivery', 'Free Parking', 'Indoor Seating']",2
+Perambur,"['Home Delivery', 'Free Parking', 'Pre-Ordering Required', 'Desserts and Bakes', 'Indoor Seating']",1
+Perambur,"['Home Delivery', 'Free Parking', 'Table reservation required', 'Indoor Seating']",1
+Perambur,"['Home Delivery', 'Indoor Seating', 'Catering Available']",1
+Perambur,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",2
+Perambur,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",2
+Perambur,"['Home Delivery', 'Indoor Seating', 'Outdoor Seating']",1
+Perambur,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",2
+Perambur,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",5
+Perambur,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Buffet']",1
+Perambur,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",1
+Perambur,"['Home Delivery', 'Indoor Seating']",50
+Perambur,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",2
+Perambur,"['Home Delivery', 'Outdoor Seating']",4
+Perambur,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",2
+Perambur,"['Home Delivery', 'Private Dining Area Available', 'Valet Parking Available', 'Table booking recommended', 'Wifi', 'Indoor Seating']",1
+Perambur,"['Home Delivery', 'Serves Halal', 'Indoor Seating', 'Catering Available', 'Table Reservation Not Required']",1
+Perambur,"['Home Delivery', 'Serves Halal', 'Indoor Seating', 'Table Reservation Not Required']",2
+Perambur,"['Home Delivery', 'Serves Halal', 'Indoor Seating']",1
+Perambur,"['Home Delivery', 'Serves Halal']",1
+Perambur,"['Home Delivery', 'Table Reservation Not Required', 'Indoor Seating']",2
+Perambur,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating']",2
+Perambur,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available']",1
+Perambur,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",1
+Perambur,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table Reservation Not Required']",1
+Perambur,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",5
+Perambur,"['Home Delivery', 'Vegetarian Only', 'Mall Parking', 'Indoor Seating', 'Desserts and Bakes']",1
+Perambur,"['Home Delivery', 'Vegetarian Only', 'Standing Tables']",2
+Perambur,"['Home Delivery', 'Vegetarian Only']",1
+Perambur,['Home Delivery'],14
+Perungudi,"['Breakfast', 'Delivery Only']",4
+Perungudi,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",2
+Perungudi,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",2
+Perungudi,"['Breakfast', 'Home Delivery', 'Indoor Seating']",8
+Perungudi,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Buffet', 'Indoor Seating']",1
+Perungudi,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Brunch']",1
+Perungudi,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Free Parking']",1
+Perungudi,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",1
+Perungudi,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Table Reservation Not Required', 'Indoor Seating']",1
+Perungudi,"['Breakfast', 'Home Delivery', 'Vegetarian Only']",2
+Perungudi,"['Breakfast', 'Home Delivery']",4
+Perungudi,['Delivery Only'],17
+Perungudi,"['Home Delivery', 'Buffet', 'Free Parking', 'Indoor Seating', 'Valet Parking Available', 'Table booking recommended', 'Kid Friendly']",1
+Perungudi,"['Home Delivery', 'Catering Available', 'Free Parking', 'Indoor Seating']",1
+Perungudi,"['Home Delivery', 'Catering Available', 'Indoor Seating', 'Valet Parking Available', 'Table booking recommended', 'Card Upon Delivery']",1
+Perungudi,"['Home Delivery', 'Catering Available', 'Indoor Seating']",1
+Perungudi,"['Home Delivery', 'Desserts and Bakes', 'Outdoor Seating']",1
+Perungudi,"['Home Delivery', 'Desserts and Bakes', 'Pre-Ordering Required', 'Indoor Seating']",1
+Perungudi,"['Home Delivery', 'Desserts and Bakes']",3
+Perungudi,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Buffet']",1
+Perungudi,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Kid Friendly', 'Desserts and Bakes']",1
+Perungudi,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Kid Friendly', 'Wifi', 'Free Wifi']",1
+Perungudi,"['Home Delivery', 'Free Parking', 'Indoor Seating']",4
+Perungudi,"['Home Delivery', 'Free Parking', 'Outdoor Seating']",1
+Perungudi,"['Home Delivery', 'Free Parking', 'Table booking recommended', 'Indoor Seating', 'Buffet']",1
+Perungudi,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes', 'Pre-Ordering Required', 'Wifi']",1
+Perungudi,"['Home Delivery', 'Indoor Seating', 'Catering Available']",1
+Perungudi,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",2
+Perungudi,"['Home Delivery', 'Indoor Seating', 'Free Parking']",1
+Perungudi,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",2
+Perungudi,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",2
+Perungudi,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",1
+Perungudi,"['Home Delivery', 'Indoor Seating']",48
+Perungudi,"['Home Delivery', 'Outdoor Seating', 'Table Reservation Not Required']",1
+Perungudi,"['Home Delivery', 'Outdoor Seating']",1
+Perungudi,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Perungudi,"['Home Delivery', 'Standing Tables']",2
+Perungudi,"['Home Delivery', 'Table booking recommended', 'Indoor Seating']",1
+Perungudi,"['Home Delivery', 'Table reservation required', 'Indoor Seating']",1
+Perungudi,"['Home Delivery', 'Valet Parking Available', 'Table booking recommended', 'Indoor Seating']",1
+Perungudi,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes', 'Free Wifi', 'Wifi', 'Indoor Seating', 'Kid Friendly']",1
+Perungudi,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Perungudi,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",4
+Perungudi,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",4
+Perungudi,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Perungudi,"['Home Delivery', 'Wheelchair Accessible', 'Wifi', 'Indoor Seating', 'Free Parking']",1
+Perungudi,['Home Delivery'],16
+Perungudi,['Indoor Seating'],1
+Porur,"['Breakfast', 'Delivery Only']",1
+Porur,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating', 'Catering Available']",1
+Porur,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",3
+Porur,"['Breakfast', 'Home Delivery', 'Free Parking', 'Pre-Ordering Required', 'Desserts and Bakes', 'Indoor Seating']",1
+Porur,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",2
+Porur,"['Breakfast', 'Home Delivery', 'Indoor Seating']",11
+Porur,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+Porur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",1
+Porur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Catering Available']",1
+Porur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Serves Jain Food', 'Live Music']",1
+Porur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",3
+Porur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Table booking recommended', 'Catering Available', 'Indoor Seating', 'Kid Friendly']",1
+Porur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Pre-Ordering Required', 'Table booking recommended']",1
+Porur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",4
+Porur,"['Breakfast', 'Home Delivery', 'Wifi', 'Free Parking', 'Brunch', 'Desserts and Bakes', 'Indoor Seating']",1
+Porur,"['Breakfast', 'Home Delivery']",2
+Porur,"['Delivery Only', 'Desserts and Bakes']",2
+Porur,['Delivery Only'],14
+Porur,"['Home Delivery', 'All Day Breakfast']",1
+Porur,"['Home Delivery', 'Catering Available', 'Table booking recommended', 'Indoor Seating', 'Valet Parking Available', 'Wifi']",1
+Porur,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",4
+Porur,"['Home Delivery', 'Desserts and Bakes']",3
+Porur,"['Home Delivery', 'Free Parking', 'Card Upon Delivery', 'Group Meal', 'Indoor Seating', 'Wifi']",1
+Porur,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Catering Available']",2
+Porur,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",1
+Porur,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Live Entertainment']",1
+Porur,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Wifi', 'Outdoor Seating', 'Desserts and Bakes']",1
+Porur,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Wifi', 'Table booking recommended']",1
+Porur,"['Home Delivery', 'Free Parking', 'Indoor Seating']",17
+Porur,"['Home Delivery', 'Free Parking', 'Pre-Ordering Required', 'Catering Available', 'Desserts and Bakes', 'Indoor Seating']",1
+Porur,"['Home Delivery', 'Free Parking', 'Pre-Ordering Required', 'Desserts and Bakes', 'Indoor Seating']",1
+Porur,"['Home Delivery', 'Free Parking']",1
+Porur,"['Home Delivery', 'Indoor Seating', 'Catering Available']",1
+Porur,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",4
+Porur,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Wifi']",1
+Porur,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",4
+Porur,"['Home Delivery', 'Indoor Seating', 'Free Parking', 'Catering Available']",1
+Porur,"['Home Delivery', 'Indoor Seating', 'Free Parking']",5
+Porur,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Porur,"['Home Delivery', 'Indoor Seating', 'Rooftop']",1
+Porur,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required', 'Free Parking']",1
+Porur,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Wifi']",1
+Porur,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",1
+Porur,"['Home Delivery', 'Indoor Seating', 'Table reservation required']",1
+Porur,"['Home Delivery', 'Indoor Seating', 'Wifi']",2
+Porur,"['Home Delivery', 'Indoor Seating']",46
+Porur,"['Home Delivery', 'Kid Friendly', 'Self Service', 'Free Wifi', 'Desserts and Bakes']",1
+Porur,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes']",1
+Porur,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+Porur,"['Home Delivery', 'Outdoor Seating']",2
+Porur,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",2
+Porur,"['Home Delivery', 'Rooftop', 'Indoor Seating', 'Free Parking', 'Table booking recommended']",1
+Porur,"['Home Delivery', 'Serves Halal', 'Free Parking', 'Indoor Seating']",1
+Porur,"['Home Delivery', 'Serves Halal', 'Free Parking', 'Outdoor Seating']",1
+Porur,"['Home Delivery', 'Serves Halal', 'Indoor Seating', 'Free Parking']",1
+Porur,"['Home Delivery', 'Sports TV', 'Indoor Seating', 'Table booking recommended', 'Bulk Orders Accepted', 'Catering Available', 'Wifi', 'Buffet', 'Valet Parking Available']",1
+Porur,"['Home Delivery', 'Standing Tables', 'Outdoor Seating', 'Indoor Seating']",1
+Porur,"['Home Delivery', 'Standing Tables']",1
+Porur,"['Home Delivery', 'Table booking recommended', 'Buffet', 'Valet Parking Available', 'Private Dining Area Available', 'Desserts and Bakes', 'Indoor Seating']",1
+Porur,"['Home Delivery', 'Table booking recommended', 'Indoor Seating', 'Wifi']",1
+Porur,"['Home Delivery', 'Table booking recommended', 'Wifi', 'Free Parking', 'Indoor Seating']",1
+Porur,"['Home Delivery', 'Valet Parking Available', 'Indoor Seating', 'Table booking recommended', 'Buffet']",1
+Porur,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Sugar Free Options', 'Indoor Seating']",1
+Porur,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes']",1
+Porur,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+Porur,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",2
+Porur,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Pre-Ordering Required', 'Desserts and Bakes', 'Indoor Seating']",1
+Porur,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",1
+Porur,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",3
+Porur,"['Home Delivery', 'Vegetarian Only']",2
+Porur,['Home Delivery'],22
+Ramapuram,"['Breakfast', 'Home Delivery', 'Desserts and Bakes', 'Free Parking', 'Pre-Ordering Required', 'Indoor Seating', 'Restricted Entry']",1
+Ramapuram,"['Breakfast', 'Home Delivery', 'Free Parking', 'Catering Available', 'Indoor Seating']",1
+Ramapuram,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",2
+Ramapuram,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Free Parking']",1
+Ramapuram,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Kid Friendly']",1
+Ramapuram,"['Breakfast', 'Home Delivery', 'Indoor Seating']",11
+Ramapuram,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Free Parking']",1
+Ramapuram,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",2
+Ramapuram,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Self Service', 'Indoor Seating']",1
+Ramapuram,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food']",1
+Ramapuram,['Delivery Only'],8
+Ramapuram,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",1
+Ramapuram,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating']",2
+Ramapuram,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table Reservation Not Required']",1
+Ramapuram,"['Home Delivery', 'Free Parking', 'Indoor Seating']",14
+Ramapuram,"['Home Delivery', 'Free Parking', 'Table booking recommended', 'Indoor Seating']",1
+Ramapuram,"['Home Delivery', 'Free Parking', 'Wifi', 'Indoor Seating', 'Card Upon Delivery']",1
+Ramapuram,"['Home Delivery', 'Free Parking']",1
+Ramapuram,"['Home Delivery', 'Indoor Seating', 'Catering Available']",1
+Ramapuram,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+Ramapuram,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Wifi', 'Free Parking', 'Catering Available', 'Pre-Ordering Required']",1
+Ramapuram,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Wifi']",1
+Ramapuram,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",5
+Ramapuram,"['Home Delivery', 'Indoor Seating', 'Free Parking']",3
+Ramapuram,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",1
+Ramapuram,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",1
+Ramapuram,"['Home Delivery', 'Indoor Seating', 'Table reservation required', 'Catering Available', 'Wifi']",1
+Ramapuram,"['Home Delivery', 'Indoor Seating', 'Wifi']",2
+Ramapuram,"['Home Delivery', 'Indoor Seating']",38
+Ramapuram,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating', 'Desserts and Bakes']",1
+Ramapuram,"['Home Delivery', 'Outdoor Seating']",2
+Ramapuram,"['Home Delivery', 'Standing Tables', 'Indoor Seating', 'Desserts and Bakes']",1
+Ramapuram,"['Home Delivery', 'Standing Tables', 'Indoor Seating']",1
+Ramapuram,"['Home Delivery', 'Table reservation required', 'Indoor Seating', 'Table booking recommended']",1
+Ramapuram,"['Home Delivery', 'Table reservation required', 'Indoor Seating']",1
+Ramapuram,"['Home Delivery', 'Valet Parking Available', 'Table booking for Groups', 'Available for Functions', 'Catering Available', 'Indoor Seating', 'Table booking recommended', 'Bulk Orders Accepted']",1
+Ramapuram,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Wifi', 'Indoor Seating', 'Kid Friendly']",1
+Ramapuram,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Ramapuram,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Table booking recommended', 'Indoor Seating', 'Private Dining Area Available']",1
+Ramapuram,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",2
+Ramapuram,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",1
+Ramapuram,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Ramapuram,"['Home Delivery', 'Vegetarian Only', 'Standing Tables']",1
+Ramapuram,"['Home Delivery', 'Vegetarian Only']",1
+Ramapuram,['Home Delivery'],7
+Ramapuram,['Indoor Seating'],1
+Selaiyur,"['Breakfast', 'Home Delivery', 'Entry Fee', 'Free Parking', 'Indoor Seating']",1
+Selaiyur,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating', 'Catering Available']",1
+Selaiyur,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",1
+Selaiyur,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Outdoor Seating', 'Free Parking']",1
+Selaiyur,"['Breakfast', 'Home Delivery', 'Indoor Seating']",4
+Selaiyur,"['Breakfast', 'Home Delivery', 'Serves Halal', 'Wifi', 'Indoor Seating']",1
+Selaiyur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",3
+Selaiyur,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",1
+Selaiyur,"['Breakfast', 'Home Delivery']",2
+Selaiyur,"['Delivery Only', 'Catering Available']",1
+Selaiyur,"['Delivery Only', 'Desserts and Bakes']",2
+Selaiyur,['Delivery Only'],13
+Selaiyur,"['Home Delivery', 'Desserts and Bakes', 'Free Parking', 'Indoor Seating']",1
+Selaiyur,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",1
+Selaiyur,"['Home Delivery', 'Desserts and Bakes']",1
+Selaiyur,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating']",2
+Selaiyur,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Valet Parking Available', 'Wifi']",1
+Selaiyur,"['Home Delivery', 'Free Parking', 'Indoor Seating']",5
+Selaiyur,"['Home Delivery', 'Free Parking', 'Outdoor Seating']",1
+Selaiyur,"['Home Delivery', 'Free Parking', 'Wifi', 'Indoor Seating']",1
+Selaiyur,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Free Parking']",1
+Selaiyur,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Table reservation required']",1
+Selaiyur,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",7
+Selaiyur,"['Home Delivery', 'Indoor Seating', 'Free Parking']",4
+Selaiyur,"['Home Delivery', 'Indoor Seating', 'Outdoor Seating', 'Wifi']",1
+Selaiyur,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",2
+Selaiyur,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Desserts and Bakes']",1
+Selaiyur,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",1
+Selaiyur,"['Home Delivery', 'Indoor Seating', 'Table reservation required']",5
+Selaiyur,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Table reservation required']",1
+Selaiyur,"['Home Delivery', 'Indoor Seating']",30
+Selaiyur,"['Home Delivery', 'Outdoor Seating']",4
+Selaiyur,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Selaiyur,"['Home Delivery', 'Serves Halal', 'Free Parking', 'Indoor Seating']",1
+Selaiyur,"['Home Delivery', 'Standing Tables']",1
+Selaiyur,"['Home Delivery', 'Table booking recommended', 'Indoor Seating']",1
+Selaiyur,"['Home Delivery', 'Table reservation required', 'Indoor Seating']",1
+Selaiyur,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating', 'Table booking recommended', 'Serves Jain Food']",1
+Selaiyur,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating']",1
+Selaiyur,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",1
+Selaiyur,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",3
+Selaiyur,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",1
+Selaiyur,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating', 'Indoor Seating', 'Table booking recommended']",1
+Selaiyur,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating', 'Self Service', 'Desserts and Bakes']",1
+Selaiyur,['Home Delivery'],8
+Selaiyur,"['Vegetarian Only', 'Indoor Seating']",1
+T. Nagar,"['Breakfast', 'Delivery Only']",2
+T. Nagar,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating', 'Table reservation required', 'Valet Parking Available']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",3
+T. Nagar,"['Breakfast', 'Home Delivery', 'Free Parking', 'Vegan Options']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Kid Friendly', 'Self Service']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Desserts and Bakes', 'Pre-Ordering Required', 'Catering Available']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Indoor Seating']",5
+T. Nagar,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Catering Available']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Valet Parking Available', 'Indoor Seating', 'Smoking Area', 'Buffet', 'Live Music', 'Table booking recommended', 'Wifi']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Pre-Ordering Required', 'Indoor Seating', 'Buffet']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Table booking recommended', 'Vegan Options', 'All Day Breakfast', 'Indoor Seating', 'Available for Functions', 'Catering Available', 'Desserts and Bakes']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Buffet', 'Table reservation required', 'Pre-Ordering Required']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Free Parking', 'All Day Breakfast']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Free Parking']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food', 'Table reservation required']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table Reservation Not Required', 'Catering Available']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table reservation required', 'Catering Available']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",4
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Pre-Ordering Required', 'Serves Jain Food']",1
+T. Nagar,"['Breakfast', 'Home Delivery', 'Vegetarian Only']",1
+T. Nagar,"['Breakfast', 'Home Delivery']",1
+T. Nagar,"['Delivery Only', 'Pre-Ordering Required', 'Desserts and Bakes', 'Home Baker']",1
+T. Nagar,"['Delivery Only', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+T. Nagar,['Delivery Only'],10
+T. Nagar,"['Home Delivery', 'Board Games', 'Outdoor Seating', 'Kid Friendly', 'Smoking Area', 'Gaming Area', 'Indoor Seating']",1
+T. Nagar,"['Home Delivery', 'Catering Available', 'Desserts and Bakes', 'Free Parking', 'Pre-Ordering Required', 'Indoor Seating']",1
+T. Nagar,"['Home Delivery', 'Desserts and Bakes', 'Free Parking', 'Pre-Ordering Required', 'Indoor Seating']",1
+T. Nagar,"['Home Delivery', 'Desserts and Bakes', 'Outdoor Seating', 'Indoor Seating']",1
+T. Nagar,"['Home Delivery', 'Desserts and Bakes']",3
+T. Nagar,"['Home Delivery', 'Free Parking', 'Disabled Friendly', 'Indoor Seating', 'Kid Friendly', 'LGBTQIA Friendly', 'Wifi', 'All Day Breakfast']",1
+T. Nagar,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Wifi']",1
+T. Nagar,"['Home Delivery', 'Free Parking', 'Indoor Seating']",7
+T. Nagar,"['Home Delivery', 'Free Parking', 'Outdoor Seating']",1
+T. Nagar,"['Home Delivery', 'Free Parking']",1
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'All Day Breakfast']",1
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",2
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'Free Parking']",1
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'Kid Friendly', 'Pre-Ordering Required', 'Disabled Friendly', 'Desserts and Bakes']",1
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",2
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'Rooftop']",1
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",2
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Rooftop']",1
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'Table reservation required', 'Catering Available']",1
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'Table reservation required']",2
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+T. Nagar,"['Home Delivery', 'Indoor Seating', 'Wifi']",1
+T. Nagar,"['Home Delivery', 'Indoor Seating']",32
+T. Nagar,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes']",1
+T. Nagar,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+T. Nagar,"['Home Delivery', 'Outdoor Seating']",2
+T. Nagar,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+T. Nagar,"['Home Delivery', 'Self Service']",2
+T. Nagar,"['Home Delivery', 'Standing Tables']",2
+T. Nagar,"['Home Delivery', 'Table booking recommended', 'Free Parking', 'Indoor Seating']",1
+T. Nagar,"['Home Delivery', 'Valet Parking Available', 'Table booking recommended', 'Table Reservation Not Required', 'Indoor Seating']",1
+T. Nagar,"['Home Delivery', 'Valet Parking Available', 'Table reservation required', 'Indoor Seating']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating', 'Pre-Ordering Required', 'Catering Available']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating']",2
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating', 'Catering Available']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Pre-Ordering Required', 'Desserts and Bakes', 'Indoor Seating']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Pre-Ordering Required', 'Indoor Seating', 'Desserts and Bakes']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Wifi', 'Indoor Seating', 'Kid Friendly']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Free Parking']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Table reservation required', 'Serves Jain Food']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",2
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Sugar Free Options', 'Desserts and Bakes']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",4
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating', 'Desserts and Bakes']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Desserts and Bakes', 'Indoor Seating']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Indoor Seating', 'Buffet', 'Outdoor Seating', 'Table Reservation Not Required', 'Wifi', 'Serves Jain Food']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Table booking recommended', 'Wifi', 'Indoor Seating', 'Free Wifi']",1
+T. Nagar,"['Home Delivery', 'Vegetarian Only']",3
+T. Nagar,"['Home Delivery', 'Wheelchair Accessible', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Valet Parking Available', 'Table booking recommended', 'Serves Jain Food', 'Buffet']",1
+T. Nagar,"['Home Delivery', 'Wifi', 'Card Upon Delivery', 'Free Parking', 'Indoor Seating']",1
+T. Nagar,"['Home Delivery', 'Wifi', 'Free Parking', 'Live Sports Screening', 'Outdoor Seating', 'Free Wifi', 'Table booking recommended', 'Smoking Area', 'Karaoke', 'Valet Parking Available', 'Indoor Seating']",1
+T. Nagar,['Home Delivery'],12
+Tambaram,"['Breakfast', 'Delivery Only', 'Vegetarian Only', 'Desserts and Bakes']",1
+Tambaram,"['Breakfast', 'Delivery Only']",3
+Tambaram,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",2
+Tambaram,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Catering Available']",1
+Tambaram,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",1
+Tambaram,"['Breakfast', 'Home Delivery', 'Indoor Seating']",9
+Tambaram,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Tambaram,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes']",2
+Tambaram,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",5
+Tambaram,"['Breakfast', 'Home Delivery', 'Vegetarian Only']",1
+Tambaram,"['Breakfast', 'Home Delivery']",4
+Tambaram,"['Delivery Only', 'Desserts and Bakes']",2
+Tambaram,['Delivery Only'],19
+Tambaram,"['Home Delivery', 'Catering Available', 'Indoor Seating']",1
+Tambaram,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating']",1
+Tambaram,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Sports TV']",1
+Tambaram,"['Home Delivery', 'Free Parking', 'Indoor Seating']",5
+Tambaram,"['Home Delivery', 'Free Parking', 'Wifi', 'Indoor Seating', 'Desserts and Bakes']",1
+Tambaram,"['Home Delivery', 'Full Bar Available', 'Indoor Seating', 'Smoking Area']",1
+Tambaram,"['Home Delivery', 'Indoor Seating', 'Catering Available']",4
+Tambaram,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",4
+Tambaram,"['Home Delivery', 'Indoor Seating', 'Free Wifi']",1
+Tambaram,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",2
+Tambaram,"['Home Delivery', 'Indoor Seating', 'Table reservation required', 'Catering Available']",1
+Tambaram,"['Home Delivery', 'Indoor Seating']",38
+Tambaram,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",2
+Tambaram,"['Home Delivery', 'Outdoor Seating']",1
+Tambaram,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Tambaram,"['Home Delivery', 'Serves Halal', 'Outdoor Seating']",1
+Tambaram,"['Home Delivery', 'Standing Tables', 'Free Parking', 'Indoor Seating']",1
+Tambaram,"['Home Delivery', 'Standing Tables', 'Indoor Seating', 'Desserts and Bakes']",1
+Tambaram,"['Home Delivery', 'Standing Tables']",3
+Tambaram,"['Home Delivery', 'Sugar Free Options', 'Indoor Seating', 'Desserts and Bakes']",1
+Tambaram,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating']",1
+Tambaram,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",2
+Tambaram,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",3
+Tambaram,['Home Delivery'],13
+Thuraipakkam,"['Breakfast', 'Delivery Only']",1
+Thuraipakkam,"['Breakfast', 'Home Delivery', 'Free Parking', 'Free Wifi', 'Buffet', 'Indoor Seating', 'Table booking recommended']",1
+Thuraipakkam,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",1
+Thuraipakkam,"['Breakfast', 'Home Delivery', 'Free Parking', 'Kid Friendly', 'Indoor Seating']",1
+Thuraipakkam,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",1
+Thuraipakkam,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table reservation required']",2
+Thuraipakkam,"['Breakfast', 'Home Delivery', 'Indoor Seating']",8
+Thuraipakkam,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Table reservation required', 'Indoor Seating', 'Smoking Area']",1
+Thuraipakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Table booking recommended', 'Serves Jain Food']",1
+Thuraipakkam,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table Reservation Not Required']",1
+Thuraipakkam,"['Breakfast', 'Home Delivery']",1
+Thuraipakkam,"['Delivery Only', 'Desserts and Bakes']",1
+Thuraipakkam,['Delivery Only'],14
+Thuraipakkam,"['Home Delivery', 'Catering Available', 'Indoor Seating']",1
+Thuraipakkam,"['Home Delivery', 'Catering Available', 'Table booking recommended', 'Indoor Seating', 'Wifi']",1
+Thuraipakkam,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",1
+Thuraipakkam,"['Home Delivery', 'Desserts and Bakes', 'Outdoor Seating']",1
+Thuraipakkam,"['Home Delivery', 'Desserts and Bakes']",2
+Thuraipakkam,"['Home Delivery', 'Free Parking', 'Card Upon Delivery', 'Indoor Seating', 'Wifi']",1
+Thuraipakkam,"['Home Delivery', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",1
+Thuraipakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Catering Available']",1
+Thuraipakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table reservation required']",1
+Thuraipakkam,"['Home Delivery', 'Free Parking', 'Indoor Seating']",3
+Thuraipakkam,"['Home Delivery', 'Free Parking', 'Outdoor Seating']",1
+Thuraipakkam,"['Home Delivery', 'Free Parking', 'Table booking recommended', 'Indoor Seating']",1
+Thuraipakkam,"['Home Delivery', 'Full Bar Available', 'Desserts and Bakes', 'Free Parking', 'Indoor Seating', 'Table booking recommended']",1
+Thuraipakkam,"['Home Delivery', 'Full Bar Available', 'Live Entertainment', 'Indoor Seating', 'Table booking recommended', 'Brunch', 'Free Wifi', 'LGBTQIA Friendly', 'Buffet']",1
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes', 'Pre-Ordering Required', 'Wifi']",1
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Table reservation required', 'Buffet']",1
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Catering Available']",1
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",3
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Wifi']",1
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",3
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Free Parking']",1
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Outdoor Seating', 'Free Parking']",1
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",2
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Self Service', 'Desserts and Bakes']",1
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",2
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Table reservation required']",2
+Thuraipakkam,"['Home Delivery', 'Indoor Seating', 'Wifi']",2
+Thuraipakkam,"['Home Delivery', 'Indoor Seating']",29
+Thuraipakkam,"['Home Delivery', 'Mall Parking', 'Indoor Seating', 'Rooftop']",1
+Thuraipakkam,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating', 'Desserts and Bakes']",1
+Thuraipakkam,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+Thuraipakkam,"['Home Delivery', 'Outdoor Seating']",5
+Thuraipakkam,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Thuraipakkam,"['Home Delivery', 'Standing Tables', 'Free Parking']",1
+Thuraipakkam,"['Home Delivery', 'Standing Tables']",2
+Thuraipakkam,"['Home Delivery', 'Table Reservation Not Required', 'Indoor Seating']",2
+Thuraipakkam,"['Home Delivery', 'Table booking for Groups', 'Indoor Seating', 'Free Parking', 'Table reservation required']",1
+Thuraipakkam,"['Home Delivery', 'Table booking recommended', 'Indoor Seating', 'Catering Available', 'Wifi']",1
+Thuraipakkam,"['Home Delivery', 'Table reservation required', 'Free Parking', 'Indoor Seating']",1
+Thuraipakkam,"['Home Delivery', 'Valet Parking Available', 'Table booking recommended', 'Buffet', 'Indoor Seating']",1
+Thuraipakkam,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Thuraipakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",4
+Thuraipakkam,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",2
+Thuraipakkam,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating', 'Free Wifi', 'Indoor Seating']",1
+Thuraipakkam,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Thuraipakkam,['Home Delivery'],20
+Velachery,"['Breakfast', 'Delivery Only']",2
+Velachery,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Catering Available']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Indoor Seating']",10
+Velachery,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'All Day Breakfast', 'Desserts and Bakes']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Desserts and Bakes', 'Indoor Seating']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Indoor Seating']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Outdoor Seating']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Standing Tables', 'Catering Available', 'Indoor Seating']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Standing Tables', 'Free Parking']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Indoor Seating', 'Desserts and Bakes']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Catering Available', 'Desserts and Bakes', 'Indoor Seating']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Catering Available', 'All Day Breakfast']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",7
+Velachery,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Velachery,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Serves Jain Food', 'Indoor Seating', 'Table reservation required', 'Catering Available']",1
+Velachery,"['Breakfast', 'Home Delivery']",1
+Velachery,"['Delivery Only', 'Desserts and Bakes']",1
+Velachery,"['Delivery Only', 'Free Parking']",1
+Velachery,['Delivery Only'],29
+Velachery,"['Home Delivery', 'Catering Available', 'Free Parking', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Catering Available', 'Indoor Seating', 'Table reservation required']",1
+Velachery,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Desserts and Bakes', 'Outdoor Seating']",1
+Velachery,"['Home Delivery', 'Desserts and Bakes']",1
+Velachery,"['Home Delivery', 'Free Parking', 'Buffet', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Free Parking', 'Card Upon Delivery', 'Indoor Seating', 'Wifi']",1
+Velachery,"['Home Delivery', 'Free Parking', 'Catering Available', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating', 'Wifi']",1
+Velachery,"['Home Delivery', 'Free Parking', 'Free Wifi', 'Indoor Seating', 'Desserts and Bakes']",1
+Velachery,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Rooftop', 'Catering Available']",1
+Velachery,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Sports TV', 'Table booking recommended']",1
+Velachery,"['Home Delivery', 'Free Parking', 'Indoor Seating']",6
+Velachery,"['Home Delivery', 'Free Parking', 'Table booking recommended', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Free Parking', 'Wifi', 'Indoor Seating']",2
+Velachery,"['Home Delivery', 'Free Parking']",2
+Velachery,"['Home Delivery', 'Full Bar Available', 'Wifi', 'Indoor Seating', 'Table booking recommended']",1
+Velachery,"['Home Delivery', 'Indoor Seating', 'All Day Breakfast']",1
+Velachery,"['Home Delivery', 'Indoor Seating', 'Buffet']",1
+Velachery,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes']",1
+Velachery,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Table reservation required']",1
+Velachery,"['Home Delivery', 'Indoor Seating', 'Catering Available']",1
+Velachery,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",16
+Velachery,"['Home Delivery', 'Indoor Seating', 'Free Parking']",2
+Velachery,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Velachery,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Catering Available']",1
+Velachery,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Rooftop']",1
+Velachery,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Buffet']",1
+Velachery,"['Home Delivery', 'Indoor Seating']",39
+Velachery,"['Home Delivery', 'Lunch Menu', 'Valet Parking Available', 'Sports TV', 'Indoor Seating', 'Table booking recommended', 'Available for Functions', 'Catering Available', 'Wifi']",1
+Velachery,"['Home Delivery', 'Mall Parking', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Outdoor Seating', 'Buffet']",1
+Velachery,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes']",2
+Velachery,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",3
+Velachery,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+Velachery,"['Home Delivery', 'Serves Halal', 'Free Parking', 'Valet Parking Available', 'Indoor Seating', 'Table booking for Groups', 'Kid Friendly', 'Buffet', 'Sports TV', 'Table booking recommended', 'Card Upon Delivery', 'Catering Available']",1
+Velachery,"['Home Delivery', 'Serves Halal', 'Outdoor Seating', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Standing Tables', 'Desserts and Bakes']",1
+Velachery,"['Home Delivery', 'Standing Tables', 'Free Parking', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Standing Tables', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Standing Tables']",1
+Velachery,"['Home Delivery', 'Table booking recommended', 'Catering Available', 'Indoor Seating', 'Card Upon Delivery']",1
+Velachery,"['Home Delivery', 'Valet Parking Available', 'Table booking recommended', 'Indoor Seating', 'Buffet']",1
+Velachery,"['Home Delivery', 'Valet Parking Available', 'Table reservation required', 'Wifi', 'Buffet', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Catering Available', 'Wifi', 'Serves Jain Food', 'Buffet', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes', 'Outdoor Seating', 'Free Wifi']",1
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Table booking recommended', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Catering Available']",1
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Sugar Free Options']",1
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",5
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food', 'Table booking recommended']",1
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table booking recommended']",1
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",4
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating', 'Desserts and Bakes']",2
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",1
+Velachery,"['Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Table booking recommended', 'Indoor Seating']",1
+Velachery,"['Home Delivery', 'Vegetarian Only']",2
+Velachery,['Home Delivery'],16
+others,"['Breakfast', 'Catering Available', 'Valet Parking Available', 'Indoor Seating']",1
+others,"['Breakfast', 'Delivery Only', 'Desserts and Bakes']",1
+others,"['Breakfast', 'Delivery Only', 'Pre-Ordering Required']",1
+others,"['Breakfast', 'Delivery Only', 'Serves Jain Food']",1
+others,"['Breakfast', 'Delivery Only', 'Vegetarian Only']",3
+others,"['Breakfast', 'Delivery Only']",19
+others,"['Breakfast', 'Home Delivery', 'Catering Available', 'Serves Jain Food', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Catering Available', 'Wifi', 'Desserts and Bakes', 'Pre-Ordering Required', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",2
+others,"['Breakfast', 'Home Delivery', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+others,"['Breakfast', 'Home Delivery', 'Desserts and Bakes']",3
+others,"['Breakfast', 'Home Delivery', 'Free Parking', 'Catering Available', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Free Parking', 'Free Wifi', 'Indoor Seating', 'Table reservation required', 'Group Meal']",1
+others,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes', 'Live Music', 'Egg Preparations', 'Wifi']",1
+others,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+others,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",1
+others,"['Breakfast', 'Home Delivery', 'Free Parking', 'Indoor Seating']",27
+others,"['Breakfast', 'Home Delivery', 'Free Parking', 'Outdoor Seating', 'Smoking Area', 'Valet Parking Available', 'Indoor Seating', 'Kid Friendly', 'Pet Friendly', 'Wifi', 'Desserts and Bakes']",1
+others,"['Breakfast', 'Home Delivery', 'Free Parking', 'Pool Table', 'Indoor Seating', 'Wifi', 'All Day Breakfast', 'Brunch', 'Group Meal', 'Live Sports Screening', 'Valet Parking Available', 'Table booking recommended', 'Kid Friendly', 'Smoking Area', 'Buffet']",1
+others,"['Breakfast', 'Home Delivery', 'Free Parking', 'Table booking recommended', 'Indoor Seating']",2
+others,"['Breakfast', 'Home Delivery', 'Free Parking', 'Table booking recommended', 'Wifi', 'Indoor Seating', 'Buffet']",1
+others,"['Breakfast', 'Home Delivery', 'Free Parking', 'Table reservation required', 'Indoor Seating', 'Catering Available']",1
+others,"['Breakfast', 'Home Delivery', 'Full Bar Available', 'Free Parking', 'Indoor Seating', 'Catering Available', 'Private Dining Area Available', 'Available for Functions', 'Table Reservation Not Required', 'Smoking Area']",1
+others,"['Breakfast', 'Home Delivery', 'Full Bar Available', 'Indoor Seating', 'Buffet', 'Valet Parking Available', 'Table booking recommended']",1
+others,"['Breakfast', 'Home Delivery', 'Full Bar Available', 'Valet Parking Available', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'All Day Breakfast', 'Table Reservation Not Required']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'All Day Breakfast']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Available for Functions', 'Desserts and Bakes', 'Table booking recommended']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Buffet']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Catering Available']",5
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'All Day Breakfast']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Catering Available']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",2
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",15
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Free Parking', 'Wifi']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Free Wifi']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Keto Options']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Kid Friendly', 'Self Service']",3
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Outdoor Seating']",2
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'All Day Breakfast', 'Desserts and Bakes']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",2
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Pre-Ordering Required']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Smoking Area', 'Table reservation required']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",2
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table reservation required', 'Catering Available']",2
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table reservation required', 'Smoking Area', 'Desserts and Bakes', 'Free Wifi']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Table reservation required']",3
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating', 'Wifi']",1
+others,"['Breakfast', 'Home Delivery', 'Indoor Seating']",156
+others,"['Breakfast', 'Home Delivery', 'Live Music', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Mall Parking', 'Indoor Seating', 'Table reservation required']",2
+others,"['Breakfast', 'Home Delivery', 'Mall Parking', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Mall Parking', 'Wifi', 'Kid Friendly', 'Self Service', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+others,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Indoor Seating']",9
+others,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Pet Friendly']",1
+others,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Table reservation required', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Wifi', 'All Day Breakfast']",1
+others,"['Breakfast', 'Home Delivery', 'Outdoor Seating', 'Wifi', 'Desserts and Bakes', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Outdoor Seating']",4
+others,"['Breakfast', 'Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",3
+others,"['Breakfast', 'Home Delivery', 'Pre-Ordering Required']",1
+others,"['Breakfast', 'Home Delivery', 'Rooftop', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Self Service']",1
+others,"['Breakfast', 'Home Delivery', 'Serves Halal', 'Indoor Seating', 'Free Parking']",1
+others,"['Breakfast', 'Home Delivery', 'Serves Halal', 'Indoor Seating', 'Free Wifi', 'Self Service']",1
+others,"['Breakfast', 'Home Delivery', 'Standing Tables', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Standing Tables']",10
+others,"['Breakfast', 'Home Delivery', 'Table Reservation Not Required', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Table booking recommended', 'Buffet', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Table reservation required', 'Valet Parking Available', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Valet Parking Available', 'Free Wifi', 'Available for Functions', 'Kid Friendly', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Available for Functions', 'Indoor Seating', 'Kid Friendly']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Buffet', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Desserts and Bakes', 'Indoor Seating', 'Pre-Ordering Required']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Free Parking', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Indoor Seating', 'Serves Jain Food']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Catering Available', 'Smoking Area', 'Indoor Seating', 'Table Reservation Not Required']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Free Parking', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating']",2
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Table Reservation Not Required', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Desserts and Bakes']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Catering Available', 'Indoor Seating', 'Serves Jain Food', 'Desserts and Bakes']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",3
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Buffet', 'Valet Parking Available', 'Table booking recommended']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Catering Available']",2
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",2
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Live Music', 'Serves Jain Food']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Serves Jain Food', 'All Day Breakfast', 'Valet Parking Available']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Valet Parking Available']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",16
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Pre-Ordering Required', 'Sugar Free Options', 'Desserts and Bakes', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Serves Jain Food', 'All Day Breakfast', 'Buffet', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Free Parking', 'Table reservation required', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Group Meal', 'Catering Available', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes', 'Pre-Ordering Required']",2
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes']",5
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Serves Jain Food', 'Table reservation required']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Table Reservation Not Required', 'Buffet']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available']",15
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",9
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Free Parking']",3
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Pre-Ordering Required', 'Table reservation required']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Pre-Ordering Required']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Self Service']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food', 'Table Reservation Not Required', 'Catering Available']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table Reservation Not Required', 'Desserts and Bakes']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table Reservation Not Required']",3
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table booking recommended', 'Free Parking']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table booking recommended']",3
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table reservation required', 'Catering Available']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table reservation required', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table reservation required']",4
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Valet Parking Available', 'Table booking recommended']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Wifi', 'Vegan Options', 'Desserts and Bakes']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Indoor Seating']",93
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",2
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Serves Jain Food', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Serves Jain Food', 'Indoor Seating', 'Table reservation required']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Serves Jain Food', 'Table reservation required', 'Indoor Seating', 'Catering Available']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Standing Tables']",3
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Table Reservation Not Required', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Table reservation required', 'Outdoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Vegetarian Only']",8
+others,"['Breakfast', 'Home Delivery', 'Wheelchair Accessible', 'Buffet', 'Valet Parking Available', 'Wifi', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Wheelchair Accessible', 'Free Parking', 'Indoor Seating', 'Table reservation required', 'Disabled Friendly', 'Buffet', 'Outdoor Seating', 'Table booking for Groups', 'Wifi']",1
+others,"['Breakfast', 'Home Delivery', 'Wheelchair Accessible', 'Full Bar Available', 'Smoking Area', 'Brunch', 'Buffet', 'Table booking recommended', 'Indoor Seating', 'Live Sports Screening', 'Valet Parking Available']",1
+others,"['Breakfast', 'Home Delivery', 'Wheelchair Accessible', 'Full Bar Available', 'Table booking recommended', 'Kid Friendly', 'Free Parking', 'Wifi', 'Buffet', 'Valet Parking Available', 'Indoor Seating']",1
+others,"['Breakfast', 'Home Delivery', 'Wheelchair Accessible', 'Full Bar Available', 'Table booking recommended', 'Kid Friendly', 'Valet Parking Available', 'Indoor Seating', '4/5 Star', 'Smoking Area', 'Buffet']",1
+others,"['Breakfast', 'Home Delivery', 'Wheelchair Accessible', 'Indoor Seating', 'Table Reservation Not Required', 'Buffet']",1
+others,"['Breakfast', 'Home Delivery', 'Wheelchair Accessible', 'Indoor Seating', 'Table reservation required', 'Buffet']",1
+others,"['Breakfast', 'Home Delivery', 'Wheelchair Accessible', 'Valet Parking Available', '4/5 Star', 'Disabled Friendly', 'Smoking Area', 'Wifi', 'All Day Breakfast', 'Brunch', 'Indoor Seating', 'Table reservation required', 'Kid Friendly']",1
+others,"['Breakfast', 'Home Delivery']",52
+others,"['Delivery Only', 'Desserts and Bakes', 'Pre-Ordering Required', 'Home Baker']",1
+others,"['Delivery Only', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+others,"['Delivery Only', 'Desserts and Bakes']",19
+others,"['Delivery Only', 'Free Parking']",1
+others,"['Delivery Only', 'Pre-Ordering Required', 'Desserts and Bakes', 'Home Baker']",1
+others,"['Delivery Only', 'Standing Tables', 'Desserts and Bakes', 'Home Baker', 'Gluten Free Options', 'Vegan Options']",1
+others,"['Delivery Only', 'Vegetarian Only', 'Free Parking']",1
+others,"['Delivery Only', 'Vegetarian Only', 'Pre-Ordering Required']",1
+others,"['Delivery Only', 'Vegetarian Only']",6
+others,"['Delivery Only', 'Wheelchair Accessible', 'Mall Parking', 'Desserts and Bakes']",1
+others,['Delivery Only'],192
+others,"['Home Delivery', 'Beer', 'Live Entertainment', 'Indoor Seating', 'Valet Parking Available', 'Live Music', 'Table booking recommended', 'Resto Bar']",1
+others,"['Home Delivery', 'Board Games', 'Free Wifi', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Home Delivery', 'Board Games', 'Free Wifi', 'Smoking Area', 'Indoor Seating', 'Kid Friendly', 'Pet Friendly', 'Wifi']",1
+others,"['Home Delivery', 'Board Games', 'Gaming Area', 'Free Wifi', 'Free Parking', 'Indoor Seating', 'All Day Breakfast', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Brunch', 'Free Parking', 'Outdoor Seating']",1
+others,"['Home Delivery', 'Brunch', 'Free Parking', 'Table booking recommended', 'Kid Friendly', 'Vegan Options', 'Indoor Seating']",1
+others,"['Home Delivery', 'Brunch', 'Indoor Seating']",1
+others,"['Home Delivery', 'Buffet', 'Table booking recommended', 'Card Upon Delivery', 'Indoor Seating']",1
+others,"['Home Delivery', 'Buffet', 'Valet Parking Available', 'Table booking recommended', 'Indoor Seating', 'Catering Available']",1
+others,"['Home Delivery', 'Buffet']",1
+others,"['Home Delivery', 'Bulk Orders Accepted', 'Indoor Seating']",1
+others,"['Home Delivery', 'Card Upon Delivery', 'Buffet', 'Table booking for Groups', 'Valet Parking Available', 'Table booking recommended', 'Catering Available', 'Outdoor Seating', 'Available for Functions', 'Indoor Seating', 'Bulk Orders Accepted']",1
+others,"['Home Delivery', 'Catering Available', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Catering Available', 'Free Parking', 'Indoor Seating']",1
+others,"['Home Delivery', 'Catering Available', 'Indoor Seating', 'Free Parking']",1
+others,"['Home Delivery', 'Catering Available', 'Indoor Seating', 'Table reservation required']",1
+others,"['Home Delivery', 'Catering Available', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Catering Available', 'Indoor Seating']",7
+others,"['Home Delivery', 'Catering Available', 'Outdoor Seating']",1
+others,"['Home Delivery', 'Catering Available', 'Table reservation required', 'Indoor Seating']",1
+others,"['Home Delivery', 'City View', 'Indoor Seating', 'Table reservation required']",1
+others,"['Home Delivery', 'Desserts and Bakes', 'Free Parking', 'Indoor Seating']",2
+others,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating', 'Wifi']",1
+others,"['Home Delivery', 'Desserts and Bakes', 'Indoor Seating']",10
+others,"['Home Delivery', 'Desserts and Bakes', 'Live Sports Screening', 'Indoor Seating', 'Table booking recommended', 'Valet Parking Available']",1
+others,"['Home Delivery', 'Desserts and Bakes', 'Outdoor Seating']",3
+others,"['Home Delivery', 'Desserts and Bakes', 'Pre-Ordering Required', 'Indoor Seating']",1
+others,"['Home Delivery', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+others,"['Home Delivery', 'Desserts and Bakes']",42
+others,"['Home Delivery', 'Free Parking', 'Brunch', 'Indoor Seating']",1
+others,"['Home Delivery', 'Free Parking', 'Card Upon Delivery', 'Indoor Seating', 'Wifi']",4
+others,"['Home Delivery', 'Free Parking', 'Catering Available', 'Indoor Seating', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Free Parking', 'Catering Available', 'Indoor Seating']",4
+others,"['Home Delivery', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",7
+others,"['Home Delivery', 'Free Parking', 'Entry Fee']",1
+others,"['Home Delivery', 'Free Parking', 'Group Meal', 'Indoor Seating']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Buffet']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Card Upon Delivery']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Catering Available']",6
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes', 'Outdoor Seating', 'Free Wifi']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",8
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Free Wifi', 'Live Sports Screening']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Kid Friendly']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Outdoor Seating']",4
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Rooftop', 'Wifi', 'Outdoor Seating', 'Table booking recommended']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table Reservation Not Required', 'Valet Parking Available']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table booking recommended', 'Kid Friendly', 'Live Music', 'Free Wifi', 'Disabled Friendly', 'Private Dining Area Available']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table reservation required', 'Kid Friendly', 'Wifi', 'Valet Parking Available', 'Free Wifi']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Table reservation required', 'Valet Parking Available']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Valet Parking Available', 'Table booking recommended']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Valet Parking Available', 'Table reservation required']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Valet Parking Available']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Wifi', 'Outdoor Seating']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Wifi', 'Sports TV', 'Table reservation required']",1
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating', 'Wifi']",8
+others,"['Home Delivery', 'Free Parking', 'Indoor Seating']",90
+others,"['Home Delivery', 'Free Parking', 'Live Music', 'Desserts and Bakes', 'Live Entertainment', 'Indoor Seating', 'Kid Friendly', 'Wifi']",1
+others,"['Home Delivery', 'Free Parking', 'Live Music', 'Disabled Friendly', 'Valet Parking Available', 'Indoor Seating', 'Table reservation required', 'Kid Friendly']",1
+others,"['Home Delivery', 'Free Parking', 'Live Music', 'Table booking recommended', 'Sports TV', 'Indoor Seating', 'Free Wifi', 'Kid Friendly']",1
+others,"['Home Delivery', 'Free Parking', 'Outdoor Seating']",5
+others,"['Home Delivery', 'Free Parking', 'Pre-Ordering Required', 'Desserts and Bakes', 'Indoor Seating']",3
+others,"['Home Delivery', 'Free Parking', 'Pre-Ordering Required', 'Indoor Seating', 'Desserts and Bakes']",2
+others,"['Home Delivery', 'Free Parking', 'Private Dining Area Available', 'Indoor Seating', 'Outdoor Seating']",1
+others,"['Home Delivery', 'Free Parking', 'Rooftop', 'Indoor Seating', 'Smoking Area']",1
+others,"['Home Delivery', 'Free Parking', 'Rooftop', 'Indoor Seating']",2
+others,"['Home Delivery', 'Free Parking', 'Rooftop']",1
+others,"['Home Delivery', 'Free Parking', 'Self Service', 'Outdoor Seating']",2
+others,"['Home Delivery', 'Free Parking', 'Table Reservation Not Required', 'Indoor Seating']",2
+others,"['Home Delivery', 'Free Parking', 'Table booking for Groups', 'Indoor Seating']",1
+others,"['Home Delivery', 'Free Parking', 'Table booking recommended', 'Buffet', 'Indoor Seating']",1
+others,"['Home Delivery', 'Free Parking', 'Table booking recommended', 'Indoor Seating']",2
+others,"['Home Delivery', 'Free Parking', 'Table booking recommended', 'Kid Friendly', 'Indoor Seating']",2
+others,"['Home Delivery', 'Free Parking', 'Table booking recommended', 'Vegan Options', 'Indoor Seating']",1
+others,"['Home Delivery', 'Free Parking', 'Table reservation required', 'Indoor Seating', 'Wifi', 'Buffet']",1
+others,"['Home Delivery', 'Free Parking', 'Table reservation required', 'Indoor Seating']",3
+others,"['Home Delivery', 'Free Parking', 'Valet Parking Available', 'Free Wifi', 'Wifi', 'Sports TV', 'Indoor Seating', 'Table booking recommended', 'Kid Friendly', 'Smoking Area']",1
+others,"['Home Delivery', 'Free Parking', 'Wifi', 'Indoor Seating']",1
+others,"['Home Delivery', 'Free Parking']",9
+others,"['Home Delivery', 'Full Bar Available', 'Free Parking', 'Indoor Seating', 'Rooftop', 'Smoking Area', 'Live Sports Screening', 'Outdoor Seating', 'Table booking recommended', 'Catering Available', 'Private Dining Area Available', 'Wifi']",1
+others,"['Home Delivery', 'Full Bar Available', 'Free Parking', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Home Delivery', 'Full Bar Available', 'Free Parking', 'Indoor Seating']",1
+others,"['Home Delivery', 'Full Bar Available', 'Free Parking', 'Smoking Area', 'Table booking recommended', 'Live Sports Screening', 'Indoor Seating', 'Dance Floor', 'Nightlife']",1
+others,"['Home Delivery', 'Full Bar Available', 'Free Parking', 'Table reservation required', 'Nightlife', 'Indoor Seating', 'Restricted Entry', 'LGBTQIA Friendly']",1
+others,"['Home Delivery', 'Full Bar Available', 'Indoor Seating', 'Live Sports Screening', 'Table booking recommended', 'Valet Parking Available', 'Restricted Entry', 'Smoking Area']",1
+others,"['Home Delivery', 'Full Bar Available', 'Karaoke', 'Nightlife', 'Restricted Entry', 'Wifi', 'Buffet', 'Live Sports Screening', 'Valet Parking Available', 'Indoor Seating', 'Smoking Area']",1
+others,"['Home Delivery', 'Full Bar Available', 'Live Sports Screening', 'Indoor Seating', 'LGBTQIA Friendly', 'Smoking Area', 'Free Parking', 'Table booking recommended', 'Restricted Entry']",1
+others,"['Home Delivery', 'Full Bar Available', 'Live Sports Screening', 'Live Music', 'Free Wifi', 'Smoking Area', 'Live Entertainment', 'Indoor Seating', 'Restricted Entry']",1
+others,"['Home Delivery', 'Full Bar Available', 'Live Sports Screening', 'Valet Parking Available', 'Live Music', 'Restricted Entry', 'Live Entertainment', 'Nightlife', 'Indoor Seating', 'Table booking recommended', 'Smoking Area']",1
+others,"['Home Delivery', 'Full Bar Available', 'Outdoor Seating', 'Disabled Friendly', 'Indoor Seating', 'Table booking recommended', 'Kid Friendly']",1
+others,"['Home Delivery', 'Full Bar Available', 'Serves Cocktails', 'Restricted Entry', 'Valet Parking Available', 'Indoor Seating', 'Table reservation required', 'Smoking Area', 'Live Sports Screening']",1
+others,"['Home Delivery', 'Full Bar Available', 'Valet Parking Available', 'Indoor Seating', 'Restricted Entry', 'Resto Bar', 'Wifi', 'Live Sports Screening', 'Table booking recommended', 'Disabled Friendly', 'Smoking Area']",1
+others,"['Home Delivery', 'Full Bar Available', 'Valet Parking Available', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Home Delivery', 'Gaming Area', 'Outdoor Seating', 'Pool Table', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Home Delivery', 'Home Baker', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Indoor Seating', 'All Day Breakfast']",2
+others,"['Home Delivery', 'Indoor Seating', 'Buffet', 'Table booking recommended']",1
+others,"['Home Delivery', 'Indoor Seating', 'Buffet']",2
+others,"['Home Delivery', 'Indoor Seating', 'Bulk Orders Accepted']",1
+others,"['Home Delivery', 'Indoor Seating', 'Card Upon Delivery', 'Wifi']",1
+others,"['Home Delivery', 'Indoor Seating', 'Card Upon Delivery']",3
+others,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Free Parking']",4
+others,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Table Reservation Not Required']",1
+others,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Table booking recommended']",2
+others,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Table reservation required']",1
+others,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Wifi', 'Pre-Ordering Required', 'Desserts and Bakes']",2
+others,"['Home Delivery', 'Indoor Seating', 'Catering Available', 'Wifi', 'Table Reservation Not Required']",1
+others,"['Home Delivery', 'Indoor Seating', 'Catering Available']",22
+others,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Free Parking']",1
+others,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required', 'Gluten Free Options']",1
+others,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",10
+others,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Sugar Free Options']",1
+others,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Table reservation required']",1
+others,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes', 'Wifi']",4
+others,"['Home Delivery', 'Indoor Seating', 'Desserts and Bakes']",113
+others,"['Home Delivery', 'Indoor Seating', 'Free Parking', 'Catering Available']",2
+others,"['Home Delivery', 'Indoor Seating', 'Free Parking']",35
+others,"['Home Delivery', 'Indoor Seating', 'Gluten Free Options', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Indoor Seating', 'Kid Friendly', 'Self Service']",1
+others,"['Home Delivery', 'Indoor Seating', 'Outdoor Seating', 'Valet Parking Available', 'Catering Available']",1
+others,"['Home Delivery', 'Indoor Seating', 'Outdoor Seating']",3
+others,"['Home Delivery', 'Indoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",18
+others,"['Home Delivery', 'Indoor Seating', 'Rooftop']",3
+others,"['Home Delivery', 'Indoor Seating', 'Self Service', 'Bulk Orders Accepted']",1
+others,"['Home Delivery', 'Indoor Seating', 'Smoking Area']",1
+others,"['Home Delivery', 'Indoor Seating', 'Sugar Free Options', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Indoor Seating', 'Sugar Free Options']",2
+others,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required', 'Catering Available', 'Wifi']",1
+others,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required', 'Catering Available']",1
+others,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required', 'Valet Parking Available', 'Wifi']",1
+others,"['Home Delivery', 'Indoor Seating', 'Table Reservation Not Required']",20
+others,"['Home Delivery', 'Indoor Seating', 'Table booking for Groups', 'Available for Functions', 'Catering Available', 'Table booking recommended', 'Bulk Orders Accepted', 'Buffet']",1
+others,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Bulk Orders Accepted', 'Catering Available', 'Wifi']",1
+others,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Catering Available', 'Wifi']",1
+others,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Catering Available']",2
+others,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Free Parking', 'Table booking for Groups', 'Valet Parking Available']",1
+others,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Free Parking']",1
+others,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Kid Friendly', 'Free Parking', 'Catering Available', 'Buffet', 'Group Meal']",1
+others,"['Home Delivery', 'Indoor Seating', 'Table booking recommended', 'Wifi']",2
+others,"['Home Delivery', 'Indoor Seating', 'Table booking recommended']",20
+others,"['Home Delivery', 'Indoor Seating', 'Table reservation required', 'Catering Available']",3
+others,"['Home Delivery', 'Indoor Seating', 'Table reservation required', 'Desserts and Bakes', 'Free Wifi']",1
+others,"['Home Delivery', 'Indoor Seating', 'Table reservation required', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+others,"['Home Delivery', 'Indoor Seating', 'Table reservation required', 'Wifi']",2
+others,"['Home Delivery', 'Indoor Seating', 'Table reservation required']",29
+others,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Free Parking']",2
+others,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Rooftop', 'Table booking recommended']",1
+others,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Table Reservation Not Required']",1
+others,"['Home Delivery', 'Indoor Seating', 'Wifi', 'Table booking recommended']",2
+others,"['Home Delivery', 'Indoor Seating', 'Wifi']",13
+others,"['Home Delivery', 'Indoor Seating']",787
+others,"['Home Delivery', 'Kid Friendly', 'Free Parking', 'Indoor Seating', 'Disabled Friendly', 'Wifi', 'Live Music', 'Free Wifi']",1
+others,"['Home Delivery', 'Lunch Menu', 'Indoor Seating', 'Desserts and Bakes', 'Free Parking', 'Table booking recommended', 'Group Meal']",1
+others,"['Home Delivery', 'Lunch Menu', 'Valet Parking Available', 'Bulk Orders Accepted', 'Sports TV', 'Indoor Seating', 'Table booking recommended', 'Available for Functions', 'Catering Available', 'Wifi', 'Buffet']",1
+others,"['Home Delivery', 'Mall Parking', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Mall Parking', 'Indoor Seating', 'Card Upon Delivery']",1
+others,"['Home Delivery', 'Mall Parking', 'Indoor Seating', 'Desserts and Bakes']",4
+others,"['Home Delivery', 'Mall Parking', 'Indoor Seating', 'Rooftop', 'Card Upon Delivery']",1
+others,"['Home Delivery', 'Mall Parking', 'Indoor Seating', 'Rooftop']",3
+others,"['Home Delivery', 'Mall Parking', 'Indoor Seating', 'Table Reservation Not Required', 'Catering Available', 'Wifi']",1
+others,"['Home Delivery', 'Mall Parking', 'Indoor Seating', 'Table Reservation Not Required', 'Catering Available']",1
+others,"['Home Delivery', 'Mall Parking', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Home Delivery', 'Mall Parking', 'Indoor Seating', 'Table reservation required', 'Rooftop']",1
+others,"['Home Delivery', 'Mall Parking', 'Indoor Seating', 'Table reservation required']",2
+others,"['Home Delivery', 'Mall Parking', 'Indoor Seating']",11
+others,"['Home Delivery', 'Mall Parking', 'Outdoor Seating', 'Rooftop', 'Indoor Seating']",3
+others,"['Home Delivery', 'Mall Parking', 'Valet Parking Available', 'Table booking recommended', 'Indoor Seating']",1
+others,"['Home Delivery', 'Mall Parking', 'Wifi', 'Indoor Seating', 'Desserts and Bakes']",2
+others,"['Home Delivery', 'Outdoor Seating', 'Available for Functions', 'Indoor Seating']",1
+others,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes', 'Indoor Seating']",2
+others,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes', 'Kid Friendly', 'Wifi']",1
+others,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes', 'Self Service']",1
+others,"['Home Delivery', 'Outdoor Seating', 'Desserts and Bakes']",12
+others,"['Home Delivery', 'Outdoor Seating', 'Free Parking']",3
+others,"['Home Delivery', 'Outdoor Seating', 'Indoor Seating']",16
+others,"['Home Delivery', 'Outdoor Seating', 'Pet Friendly', 'Indoor Seating', 'Wifi', 'All Day Breakfast']",1
+others,"['Home Delivery', 'Outdoor Seating', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Outdoor Seating', 'Rooftop', 'Indoor Seating', 'Table booking recommended']",2
+others,"['Home Delivery', 'Outdoor Seating', 'Rooftop', 'Table Reservation Not Required', 'Indoor Seating']",1
+others,"['Home Delivery', 'Outdoor Seating', 'Self Service']",1
+others,"['Home Delivery', 'Outdoor Seating', 'Sugar Free Options', 'Free Parking', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Outdoor Seating', 'Sugar Free Options']",1
+others,"['Home Delivery', 'Outdoor Seating', 'Table booking recommended', 'Indoor Seating']",1
+others,"['Home Delivery', 'Outdoor Seating', 'Table booking recommended', 'Smoking Area', 'Indoor Seating', 'Wifi']",1
+others,"['Home Delivery', 'Outdoor Seating', 'Table reservation required', 'Indoor Seating', 'Catering Available']",1
+others,"['Home Delivery', 'Outdoor Seating', 'Wifi']",1
+others,"['Home Delivery', 'Outdoor Seating']",48
+others,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes', 'Home Baker']",4
+others,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes', 'Indoor Seating']",1
+others,"['Home Delivery', 'Pre-Ordering Required', 'Desserts and Bakes']",17
+others,"['Home Delivery', 'Pre-Ordering Required', 'Free Parking', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Pre-Ordering Required', 'Home Baker', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Restricted Entry', 'Catering Available', 'Indoor Seating']",2
+others,"['Home Delivery', 'Rooftop', 'All Day Breakfast', 'Indoor Seating', 'Buffet']",1
+others,"['Home Delivery', 'Rooftop', 'Free Parking', 'Indoor Seating', 'Group Meal']",1
+others,"['Home Delivery', 'Self Service', 'Group Meal', 'Indoor Seating']",1
+others,"['Home Delivery', 'Self Service', 'Outdoor Seating']",1
+others,"['Home Delivery', 'Self Service']",4
+others,"['Home Delivery', 'Serves Halal', 'Free Parking', 'Indoor Seating', 'Outdoor Seating']",1
+others,"['Home Delivery', 'Serves Halal', 'Free Parking', 'Indoor Seating', 'Table booking for Groups', 'Valet Parking Available', 'Table booking recommended', 'Card Upon Delivery']",1
+others,"['Home Delivery', 'Serves Halal', 'Free Parking', 'Indoor Seating', 'Table booking recommended', 'Table reservation required', 'Catering Available', 'Valet Parking Available', 'Table booking for Groups', 'Kid Friendly']",1
+others,"['Home Delivery', 'Serves Halal', 'Free Parking', 'Indoor Seating']",3
+others,"['Home Delivery', 'Serves Halal', 'Indoor Seating', 'Catering Available']",1
+others,"['Home Delivery', 'Serves Halal', 'Indoor Seating', 'Self Service']",2
+others,"['Home Delivery', 'Serves Halal', 'Indoor Seating']",13
+others,"['Home Delivery', 'Serves Halal', 'Mall Parking', 'Indoor Seating']",2
+others,"['Home Delivery', 'Serves Halal', 'Outdoor Seating', 'Indoor Seating']",3
+others,"['Home Delivery', 'Serves Halal']",1
+others,"['Home Delivery', 'Smoking Area', 'Outdoor Seating', 'Indoor Seating']",1
+others,"['Home Delivery', 'Standing Tables', 'Desserts and Bakes']",3
+others,"['Home Delivery', 'Standing Tables', 'Indoor Seating']",2
+others,"['Home Delivery', 'Standing Tables', 'Outdoor Seating', 'Self Service']",1
+others,"['Home Delivery', 'Standing Tables', 'Outdoor Seating']",1
+others,"['Home Delivery', 'Standing Tables', 'Self Service']",1
+others,"['Home Delivery', 'Standing Tables', 'Sugar Free Options']",1
+others,"['Home Delivery', 'Standing Tables', 'Wifi']",1
+others,"['Home Delivery', 'Standing Tables']",38
+others,"['Home Delivery', 'Sugar Free Options', 'Desserts and Bakes', 'Outdoor Seating', 'Indoor Seating']",1
+others,"['Home Delivery', 'Sugar Free Options', 'Indoor Seating']",1
+others,"['Home Delivery', 'Sugar Free Options', 'Outdoor Seating']",1
+others,"['Home Delivery', 'Table Reservation Not Required', 'Indoor Seating', 'Free Parking']",1
+others,"['Home Delivery', 'Table Reservation Not Required', 'Indoor Seating']",8
+others,"['Home Delivery', 'Table Reservation Not Required', 'Vegan Options', 'Free Parking', 'Indoor Seating']",1
+others,"['Home Delivery', 'Table booking recommended', 'Buffet', 'Free Parking', 'Kid Friendly', 'Indoor Seating']",1
+others,"['Home Delivery', 'Table booking recommended', 'Catering Available', 'Indoor Seating']",1
+others,"['Home Delivery', 'Table booking recommended', 'Free Parking', 'Indoor Seating']",1
+others,"['Home Delivery', 'Table booking recommended', 'Indoor Seating', 'Buffet']",1
+others,"['Home Delivery', 'Table booking recommended', 'Indoor Seating', 'Catering Available', 'Buffet']",1
+others,"['Home Delivery', 'Table booking recommended', 'Indoor Seating', 'Disabled Friendly', 'Valet Parking Available', 'Kid Friendly', 'Wifi']",1
+others,"['Home Delivery', 'Table booking recommended', 'Indoor Seating']",6
+others,"['Home Delivery', 'Table booking recommended', 'Valet Parking Available', 'Indoor Seating']",1
+others,"['Home Delivery', 'Table booking recommended']",1
+others,"['Home Delivery', 'Table reservation required', 'Free Parking', 'Indoor Seating']",1
+others,"['Home Delivery', 'Table reservation required', 'Indoor Seating', 'Catering Available']",1
+others,"['Home Delivery', 'Table reservation required', 'Indoor Seating']",4
+others,"['Home Delivery', 'Valet Parking Available', 'Buffet', 'Indoor Seating']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Indoor Seating', 'Free Wifi', 'Kid Friendly', 'Outdoor Seating', 'Rooftop', 'Table booking recommended', 'Catering Available', 'Disabled Friendly', 'Smoking Area', 'Buffet']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Indoor Seating', 'Outdoor Seating', 'Wifi']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Indoor Seating', 'Table booking for Groups', 'Available for Functions', 'Catering Available', 'Outdoor Seating', 'Table booking recommended', 'Bulk Orders Accepted', 'Buffet']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Indoor Seating', 'Table booking recommended', 'Disabled Friendly', 'Pet Friendly', 'Outdoor Seating', 'Free Wifi', 'Kid Friendly', 'Wifi']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Indoor Seating', 'Table reservation required']",3
+others,"['Home Delivery', 'Valet Parking Available', 'Indoor Seating']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Live Music', 'Smoking Area', 'Outdoor Seating', 'Wifi']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Table booking for Groups', 'Free Parking', 'Indoor Seating', 'Wifi', 'Free Wifi', 'Table booking recommended']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Table booking recommended', 'All Day Breakfast', 'Desserts and Bakes', 'Indoor Seating']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Table booking recommended', 'Available for Functions', 'Catering Available', 'Indoor Seating', 'Bulk Orders Accepted', 'Buffet']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Table booking recommended', 'Indoor Seating', 'Wifi']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Table booking recommended', 'Indoor Seating']",2
+others,"['Home Delivery', 'Valet Parking Available', 'Table reservation required', 'Buffet', 'Indoor Seating', 'Kid Friendly']",1
+others,"['Home Delivery', 'Valet Parking Available', 'Table reservation required', 'Indoor Seating']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Board Games', 'Indoor Seating', 'Smoking Area', 'Free Parking', 'Kid Friendly', 'Private Dining Area Available', 'Wifi', 'Group Meal']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Buffet', 'Free Parking', 'Indoor Seating']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Bulk Orders Accepted', 'Self Service', 'Free Parking', 'Indoor Seating']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Catering Available', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Catering Available', 'Free Parking', 'Pre-Ordering Required', 'Desserts and Bakes', 'Indoor Seating']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Catering Available']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating', 'Free Parking', 'Catering Available']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating', 'Sugar Free Options']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes', 'Indoor Seating']",3
+others,"['Home Delivery', 'Vegetarian Only', 'Desserts and Bakes']",11
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes', 'Indoor Seating']",5
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes', 'Outdoor Seating']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Desserts and Bakes']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Buffet', 'Desserts and Bakes', 'Dance Floor', 'Live Music', 'Kid Friendly', 'Private Dining Area Available', 'Vegan Options']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Desserts and Bakes']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Kid Friendly', 'Wifi', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Outdoor Seating', 'Desserts and Bakes']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Serves Jain Food', 'Live Music', 'Vegan Options']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Valet Parking Available', 'Table booking recommended', 'Private Dining Area Available', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Valet Parking Available', 'Table reservation required', 'Kid Friendly', 'Private Dining Area Available', 'Serves Jain Food', 'Buffet']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating', 'Wifi']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Indoor Seating']",10
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Outdoor Seating', 'Catering Available']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Pre-Ordering Required', 'Desserts and Bakes', 'Indoor Seating', 'Catering Available']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Rooftop', 'Indoor Seating']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Table Reservation Not Required', 'Indoor Seating']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Table booking recommended', 'Indoor Seating', 'Available for Functions', 'Kid Friendly']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking', 'Table booking recommended', 'Indoor Seating']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Free Parking']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Home Baker', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'All Day Breakfast', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'All Day Breakfast']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Buffet', 'Table booking recommended']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Desserts and Bakes']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available', 'Pre-Ordering Required', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Catering Available']",5
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Catering Available', 'Sugar Free Options']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Catering Available']",3
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Pre-Ordering Required']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Sugar Free Options']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes', 'Table booking recommended']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",55
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Free Parking']",5
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Free Wifi']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Pre-Ordering Required']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Rooftop', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food', 'Catering Available']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food', 'Vegan Options']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Serves Jain Food']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Sugar Free Options', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table Reservation Not Required', 'Buffet']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table Reservation Not Required']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table booking recommended', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table booking recommended']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Table reservation required']",3
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating', 'Wifi']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Indoor Seating']",59
+others,"['Home Delivery', 'Vegetarian Only', 'Live Music', 'Buffet', 'Indoor Seating', 'Brunch']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Mall Parking', 'Desserts and Bakes', 'Indoor Seating']",3
+others,"['Home Delivery', 'Vegetarian Only', 'Mall Parking', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Mall Parking', 'Free Parking', 'Free Wifi', 'Indoor Seating']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Mall Parking', 'Free Parking', 'Kid Friendly', 'Wifi', 'Desserts and Bakes', 'Free Wifi']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Mall Parking', 'Indoor Seating', 'Desserts and Bakes']",6
+others,"['Home Delivery', 'Vegetarian Only', 'Mall Parking', 'Indoor Seating', 'Rooftop']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Mall Parking', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Mall Parking', 'Indoor Seating']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating', 'Desserts and Bakes']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating', 'Indoor Seating', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Outdoor Seating']",19
+others,"['Home Delivery', 'Vegetarian Only', 'Pre-Ordering Required', 'Desserts and Bakes', 'Home Baker']",3
+others,"['Home Delivery', 'Vegetarian Only', 'Pre-Ordering Required']",3
+others,"['Home Delivery', 'Vegetarian Only', 'Self Service']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Standing Tables', 'Outdoor Seating', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Standing Tables']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Sugar Free Options', 'Indoor Seating', 'Desserts and Bakes']",2
+others,"['Home Delivery', 'Vegetarian Only', 'Table Reservation Not Required']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Buffet', 'Indoor Seating', 'Catering Available']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Indoor Seating', 'Buffet', 'Outdoor Seating', 'Table booking recommended', 'Serves Jain Food', 'Brunch']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Indoor Seating', 'Table booking recommended', 'Buffet']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Indoor Seating']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Valet Parking Available', 'Table booking recommended', 'Buffet', 'Indoor Seating', 'Serves Jain Food']",1
+others,"['Home Delivery', 'Vegetarian Only', 'Wifi', 'Desserts and Bakes', 'Board Games', 'Indoor Seating', 'Kid Friendly', 'Free Parking', 'Free Wifi']",1
+others,"['Home Delivery', 'Vegetarian Only']",39
+others,"['Home Delivery', 'Wheelchair Accessible', 'Buffet', 'Valet Parking Available', 'Table booking recommended', 'LGBTQIA Friendly', 'Indoor Seating', 'Available for Functions']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Free Parking', 'Indoor Seating', 'Table Reservation Not Required', 'Valet Parking Available', 'Disabled Friendly']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Free Parking', 'Indoor Seating']",2
+others,"['Home Delivery', 'Wheelchair Accessible', 'Full Bar Available', 'Free Parking', 'Valet Parking Available', 'Indoor Seating', 'Table booking recommended', 'Kid Friendly', 'Luxury Dining', 'Gluten Free Options', 'Vegan Options', 'Brunch', 'Live Sports Screening', '4/5 Star', 'Smoking Area', 'Wifi', 'Serves Jain Food', 'Buffet', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Full Bar Available', 'Valet Parking Available', 'Indoor Seating', 'Buffet', 'Table booking recommended']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Indoor Seating', 'Card Upon Delivery']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Indoor Seating', 'Rooftop', 'Wifi']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Indoor Seating', 'Wifi']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Mall Parking', 'Desserts and Bakes', 'Indoor Seating']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Mall Parking', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Mall Parking', 'Indoor Seating', 'Card Upon Delivery']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Mall Parking', 'Indoor Seating', 'Catering Available']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Mall Parking', 'Indoor Seating', 'Wifi', 'Card Upon Delivery']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Mall Parking', 'Indoor Seating', 'Wifi', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Sports TV', 'Wifi', 'Free Parking', 'Live Sports Screening', 'Pool Table', 'Indoor Seating', 'Kid Friendly', 'Disabled Friendly', 'Gaming Area']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Valet Parking Available', 'Table booking recommended', 'Wifi', 'Indoor Seating']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Vegetarian Only', 'Mall Parking', 'Indoor Seating', 'Desserts and Bakes', 'Catering Available']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Vegetarian Only', 'Mall Parking', 'Indoor Seating', 'Desserts and Bakes']",2
+others,"['Home Delivery', 'Wheelchair Accessible', 'Vegetarian Only', 'Mall Parking', 'Indoor Seating', 'Serves Jain Food', 'Table Reservation Not Required']",1
+others,"['Home Delivery', 'Wheelchair Accessible', 'Vegetarian Only', 'Mall Parking', 'Outdoor Seating', 'Desserts and Bakes']",1
+others,"['Home Delivery', 'Wifi', 'Desserts and Bakes', 'Outdoor Seating', 'Indoor Seating']",1
+others,"['Home Delivery', 'Wifi', 'Free Parking', 'Indoor Seating', 'Table booking recommended']",1
+others,"['Home Delivery', 'Wifi', 'Indoor Seating', 'Free Parking']",1
+others,"['Home Delivery', 'Wifi', 'Indoor Seating']",2
+others,"['Home Delivery', 'Wine', 'Rooftop', 'Indoor Seating', 'Table booking recommended']",1
+others,['Home Delivery'],252
+others,"['Indoor Seating', 'Wifi']",1
+others,['Indoor Seating'],2
+others,"['Takeaway Only', 'Vegetarian Only']",1
+others,"['Vegetarian Only', 'Indoor Seating', 'Desserts and Bakes']",1
